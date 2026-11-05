@@ -19,7 +19,7 @@ Collectors chase items like a Labubu blind box, a Pokémon Elite Trainer Box or 
 
 ## The solution
 
-CollectNow is a **connected build** with three layers: **EmployeeWorks** as the AI front door, **ToolSmith** plugins in Moveworks Tool Studio as the middle layer, and a **ServiceNow** app as the system of record. Why it's shaped this way, and what we learned: **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)**.
+CollectNow is a **three-layer build**: **EmployeeWorks** as the AI front door, **ToolSmith** plugins in Moveworks Tool Studio as the middle layer, and a **ServiceNow** app as the system of record. Why it's shaped this way, and what we learned: **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)**.
 
 
 | Layer | What it does |

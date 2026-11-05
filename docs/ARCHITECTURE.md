@@ -1,6 +1,6 @@
 # Architecture and design intent
 
-CollectNow was designed as a **connected build**:
+CollectNow was designed as a **three-layer build**:
 
 - **EmployeeWorks** is the AI "front door."
 - **ToolSmith (in Moveworks Tool Studio)** builds the middle layer that turns a conversation into API calls.
@@ -109,7 +109,7 @@ The Collector Context API ([`servicenow/server/rest-api/`](../servicenow/server/
 
 ## Security: whose permissions apply?
 
-The connector uses OAuth 2.0 (authorization code + PKCE) through a ServiceNow OAuth app. Each collector signs in once, so **every API call runs as that person**, and ServiceNow enforces their roles and ACLs:
+The middle layer connects to ServiceNow with per-user OAuth. Each collector authorizes once, so **every API call runs as that person**, and ServiceNow enforces their roles and ACLs:
 
 - The REST endpoint requires the `x_1234_team39_co_0.buyer` role (anonymous calls get 401).
 - `buyer` can read the catalog tables, create watches, and read only their own watches.
@@ -139,10 +139,9 @@ ToolSmith builds plugins from a description of the outcome. It proposes a plan, 
 
 - **Start narrow, end to end.** One capability working all the way from chat to ServiceNow and back beat five half-wired ones. Add plugins after the first path works.
 - **Put the logic in the platform, not the plugin.** The more the API computed (deal signal, status, cheapest in-stock), the simpler and more reliable the plugins and answers became.
-- **Design the API for the caller.** A single context endpoint with small, predictable JSON was much easier for ToolSmith to wire up than raw Table API calls.
-- **Auth is the long pole.** Set up the OAuth app and connector first. Check that the header pattern is `Bearer %s` and that scope restrictions aren't blocking your scoped API.
-- **Test from the assistant, not just REST API Explorer.** Real questions exposed issues that clean API calls didn't, for example missing timezones and ambiguous rumor wording.
-- **Prefix everything with your team name** in Tool Studio, because the environment is shared.
+- **Design the API for the caller.** A single context endpoint with small, predictable JSON was much easier to wire into a plugin than raw table queries.
+- **Do the auth plumbing early.** Connecting the middle layer to ServiceNow as the signed-in user took longer than building any single feature.
+- **Test with real questions in the assistant.** Natural-language questions surfaced issues that clean API calls didn't, such as missing timezones and ambiguous rumor wording.
 - **Keep guard rails deterministic.** Validation in business rules plus ATF tests on the negative paths means the assistant can't talk its way past a rule.
 
 ## Known gaps and next steps
