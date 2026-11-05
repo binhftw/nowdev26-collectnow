@@ -3,7 +3,7 @@
 **Scattered rumors → verified drops and fair prices.**
 A ServiceNow scoped app plus an EmployeeWorks assistant. Collectors use it to find out when the next drop is, where to buy at retail, and whether a resale price is fair. Built by Team39 at the **now[dev]26 hackathon**.
 
-▶️ **Demo video (2:05):** [`docs/demo/collectnow-demo.mp4`](docs/demo/collectnow-demo.mp4) · 📄 **[Executive summary](docs/EXECUTIVE_SUMMARY.md)**
+▶️ **Demo video (2:05):** [`docs/demo/collectnow-demo.mp4`](docs/demo/collectnow-demo.mp4) · 📄 **[Executive summary](docs/EXECUTIVE_SUMMARY.md)** · 🧭 **[Architecture & design intent](docs/ARCHITECTURE.md)**
 
 ![CollectNow Assistant answering in EmployeeWorks](docs/screenshots/ew3_answer.jpg)
 
@@ -18,6 +18,9 @@ Collectors chase items like a Labubu blind box, a Pokémon Elite Trainer Box or 
 - **Resellers** charge up to roughly 2× retail (in our demo data, $54.99 against $27.99).
 
 ## The solution
+
+CollectNow is a **connected build** with three layers: **EmployeeWorks** as the AI front door, **ToolSmith** plugins in Moveworks Tool Studio as the middle layer, and a **ServiceNow** app as the system of record. Why it's shaped this way, and what we learned: **[docs/ARCHITECTURE.md](docs/ARCHITECTURE.md)**.
+
 
 | Layer | What it does |
 |---|---|
@@ -117,7 +120,7 @@ Each file under `servicenow/xml/` is a standard ServiceNow XML export (`<unload>
 > This is a backup and showcase export from a temporary hackathon instance, not a Source Control–linked repo. Plan on some cleanup if you re-import it.
 
 ## Built with
-ServiceNow (scoped app, Business Rules, Scripted REST, ACLs, ATF) · ServiceNow **Build Agent** · **EmployeeWorks** (CollectNow Assistant, connected over OAuth)
+ServiceNow (scoped app, Business Rules, Scripted REST, ACLs, ATF) · ServiceNow **Build Agent** · **ToolSmith** / Moveworks Tool Studio (plugins, HTTP actions, OAuth connector) · **EmployeeWorks** (CollectNow Assistant)
 
 ## Team
 Team39 · now[dev]26 hackathon

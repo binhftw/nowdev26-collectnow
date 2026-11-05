@@ -24,12 +24,13 @@ A ServiceNow app plus an EmployeeWorks assistant that work together from end to 
 | Role-based access, read-own watches | ACLs + `buyer` role |
 | Collectible Finder and Upcoming Drops pages | React UI pages (ServiceNow SDK) |
 | Regression safety | 7 ATF tests |
-| Conversational front end | EmployeeWorks assistant over OAuth |
+| Middle layer (intent → API call) | ToolSmith plugins, HTTP actions, OAuth connector in Tool Studio |
+| Conversational front end | EmployeeWorks productivity assistant |
 | Build acceleration | ServiceNow Build Agent |
 
 ## Why it matters
 - **For collectors:** one trusted answer instead of 11 browser tabs, plus fair-price signals before paying a reseller markup.
-- **For the platform:** a pattern any ServiceNow team can reuse. Keep ServiceNow as the system of record, expose *computed context* (not raw rows) through a role-secured Scripted REST API, and let EmployeeWorks provide the conversation.
+- **For the platform:** a pattern any ServiceNow team can reuse. Keep ServiceNow as the system of record, expose *computed context* (not raw rows) through a role-secured Scripted REST API, and let ToolSmith plugins route the conversation in EmployeeWorks to it. See [ARCHITECTURE.md](ARCHITECTURE.md).
 
 ## Ideas worth borrowing
 - **Serve decisions, not rows.** The API returns a `market` summary and a `deal_signal`, so the assistant reasons over conclusions instead of re-deriving them.
