@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-05 23:42:36">
+<sys_user_role action="INSERT_OR_UPDATE">
+<assignable_by display_value=""/>
+<can_delegate>true</can_delegate>
+<description>Collector / buyer. Reads catalog, drops, listings and sales; can create and read their own watches.</description>
+<elevated_privilege>false</elevated_privilege>
+<encryption_context display_value=""/>
+<federated_id>khfNHg8ZQIPqhPUamqWUnypGbB1x5i4z9s8nRucSflI=</federated_id>
+<grantable>true</grantable>
+<includes_roles/>
+<name>x_1234_team39_co_0.buyer</name>
+<scoped_admin>false</scoped_admin>
+<suffix>buyer</suffix>
+<sys_class_name>sys_user_role</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:41</sys_created_on>
+<sys_id>e32cade66b5b4cef8f9531aaa3e74991</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0.buyer</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_user_role_e32cade66b5b4cef8f9531aaa3e74991</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:41</sys_updated_on>
+</sys_user_role>
+</unload>

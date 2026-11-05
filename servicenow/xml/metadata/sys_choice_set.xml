@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-05 23:42:33">
+<sys_choice_set action="INSERT_OR_UPDATE">
+<element>category</element>
+<name>x_1234_team39_co_0_collectible</name>
+<sys_class_name>sys_choice_set</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_id>8dd00d2f02b04e12b105e430d350666c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>category</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_choice_x_1234_team39_co_0_collectible_category</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+</sys_choice_set>
+<sys_choice_set action="INSERT_OR_UPDATE">
+<element>status</element>
+<name>x_1234_team39_co_0_drop</name>
+<sys_class_name>sys_choice_set</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_id>9165f562268d45e685982783cf701efb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>status</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_choice_x_1234_team39_co_0_drop_status</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+</sys_choice_set>
+<sys_choice_set action="INSERT_OR_UPDATE">
+<element>item_condition</element>
+<name>x_1234_team39_co_0_listing</name>
+<sys_class_name>sys_choice_set</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_id>7bbf0ba1aaba4f6191a6e95d96992fb5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>item_condition</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_choice_x_1234_team39_co_0_listing_item_condition</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+</sys_choice_set>
+<sys_choice_set action="INSERT_OR_UPDATE">
+<element>availability</element>
+<name>x_1234_team39_co_0_listing</name>
+<sys_class_name>sys_choice_set</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_id>8525f0683cc749da9d521250d585f071</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>availability</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_choice_x_1234_team39_co_0_listing_availability</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+</sys_choice_set>
+<sys_choice_set action="INSERT_OR_UPDATE">
+<element>item_condition</element>
+<name>x_1234_team39_co_0_sale</name>
+<sys_class_name>sys_choice_set</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:39</sys_created_on>
+<sys_id>cf32ae03db084e8c9b51eae42bc588e0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>item_condition</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_choice_x_1234_team39_co_0_sale_item_condition</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:39</sys_updated_on>
+</sys_choice_set>
+<sys_choice_set action="INSERT_OR_UPDATE">
+<element>marketplace</element>
+<name>x_1234_team39_co_0_sale</name>
+<sys_class_name>sys_choice_set</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:39</sys_created_on>
+<sys_id>ecb452986d5b4e78a358409bd5ccca92</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>marketplace</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_choice_x_1234_team39_co_0_sale_marketplace</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:39</sys_updated_on>
+</sys_choice_set>
+<sys_choice_set action="INSERT_OR_UPDATE">
+<element>store_type</element>
+<name>x_1234_team39_co_0_store</name>
+<sys_class_name>sys_choice_set</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_id>8eb046ad448a465da5b13a1d91ef8dfa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>store_type</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_choice_x_1234_team39_co_0_store_store_type</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+</sys_choice_set>
+<sys_choice_set action="INSERT_OR_UPDATE">
+<element>tip_type</element>
+<name>x_1234_team39_co_0_tip</name>
+<sys_class_name>sys_choice_set</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_id>236436d67bec43c5b48c38467af78965</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>tip_type</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_choice_x_1234_team39_co_0_tip_tip_type</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+</sys_choice_set>
+<sys_choice_set action="INSERT_OR_UPDATE">
+<element>status</element>
+<name>x_1234_team39_co_0_tip</name>
+<sys_class_name>sys_choice_set</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_id>b3f8c9c79f47450a805aa5e868c8badb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>status</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_choice_x_1234_team39_co_0_tip_status</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+</sys_choice_set>
+<sys_choice_set action="INSERT_OR_UPDATE">
+<element>source</element>
+<name>x_1234_team39_co_0_tip</name>
+<sys_class_name>sys_choice_set</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_id>b40c80b9cdb54d10a2b24cbae2680178</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>source</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_choice_x_1234_team39_co_0_tip_source</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+</sys_choice_set>
+<sys_choice_set action="INSERT_OR_UPDATE">
+<element>min_condition</element>
+<name>x_1234_team39_co_0_watch</name>
+<sys_class_name>sys_choice_set</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:39</sys_created_on>
+<sys_id>b0d266eea7dd48d39cff4ab5420fb04f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>min_condition</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_choice_x_1234_team39_co_0_watch_min_condition</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:39</sys_updated_on>
+</sys_choice_set>
+</unload>

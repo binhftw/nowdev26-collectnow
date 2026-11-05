@@ -1,0 +1,997 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-05 23:42:32">
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>DIRECT</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name/>
+<order>100</order>
+<override_menu_roles>false</override_menu_roles>
+<query>x_1234_team39_co_0_finder.do</query>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>3a8b92797d9448cdaef629aaf0c6d9cf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Collectible Finder</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_3a8b92797d9448cdaef629aaf0c6d9cf</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>Collectible Finder</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>DIRECT</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name/>
+<order>110</order>
+<override_menu_roles>false</override_menu_roles>
+<query>x_1234_team39_co_0_upcoming_drops.do</query>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_1</sys_created_by>
+<sys_created_on>2026-11-05 00:02:32</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>8377894cf7cc47428b52224d6ffa3294</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Upcoming Drops</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_8377894cf7cc47428b52224d6ffa3294</sys_update_name>
+<sys_updated_by>admin_1</sys_updated_by>
+<sys_updated_on>2026-11-05 00:02:32</sys_updated_on>
+<timeline_page display_value=""/>
+<title>Upcoming Drops</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>SEPARATOR</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name/>
+<order>200</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>0be7ab3f9b804d1b89a71620e72dac8d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Catalog</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_0be7ab3f9b804d1b89a71620e72dac8d</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>Catalog</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_collectible"/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>LIST</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_collectible</name>
+<order>210</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>700d97e6a9944b428b66536a9d240f21</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Collectibles</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_700d97e6a9944b428b66536a9d240f21</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>Collectibles</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_collectible"/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>NEW</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_collectible</name>
+<order>220</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>cc66310e6b0c42f181429f29b30668ba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>New Collectible</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_cc66310e6b0c42f181429f29b30668ba</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>New Collectible</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_store"/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>LIST</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_store</name>
+<order>230</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>1ad898e7127c4033ace5f93a0f536ba5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Stores</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_1ad898e7127c4033ace5f93a0f536ba5</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>Stores</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_store"/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>NEW</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_store</name>
+<order>240</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>0313fa40bb47469dba45aa4e1bcb4fbe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>New Store</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_0313fa40bb47469dba45aa4e1bcb4fbe</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>New Store</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_sale"/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>LIST</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_sale</name>
+<order>300</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:36</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>71d63680ac0240629d54d572338d496c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Previous Sales</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_71d63680ac0240629d54d572338d496c</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:36</sys_updated_on>
+<timeline_page display_value=""/>
+<title>Previous Sales</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>SEPARATOR</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name/>
+<order>300</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>8a3ff2b3d3de47cebe19b4cf49f8e128</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Listings &amp; Drops</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_8a3ff2b3d3de47cebe19b4cf49f8e128</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>Listings &amp; Drops</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_sale"/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>NEW</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_sale</name>
+<order>310</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:36</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>3fde33665f7f40618d72431bc4496a9f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>New Previous Sale</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_3fde33665f7f40618d72431bc4496a9f</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:36</sys_updated_on>
+<timeline_page display_value=""/>
+<title>New Previous Sale</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_listing"/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>LIST</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_listing</name>
+<order>310</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>d9e728094395498589404cb3ca77055c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Store Listings</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_d9e728094395498589404cb3ca77055c</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>Store Listings</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_listing"/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>NEW</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_listing</name>
+<order>320</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>53128dc13ce24087a552d073bc55a5b8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>New Store Listing</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_53128dc13ce24087a552d073bc55a5b8</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>New Store Listing</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_watch"/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>LIST</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_watch</name>
+<order>320</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:36</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>cd4e2329570f48e8ba151b55c180e822</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Watches</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_cd4e2329570f48e8ba151b55c180e822</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:36</sys_updated_on>
+<timeline_page display_value=""/>
+<title>Watches</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_drop"/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>LIST</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_drop</name>
+<order>330</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>584964791137461a8942d02d58d32ce0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Drops</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_584964791137461a8942d02d58d32ce0</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>Drops</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_watch"/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>NEW</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_watch</name>
+<order>330</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:36</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>623fe48ef1d746d1806a5f54da3df9e1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>New Watch</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_623fe48ef1d746d1806a5f54da3df9e1</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:36</sys_updated_on>
+<timeline_page display_value=""/>
+<title>New Watch</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_drop">status=live<item goto="false" or="false" field="status" endquery="false" value="live" operator="=" newquery="false"/>
+</filter>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>LIST</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_drop</name>
+<order>340</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:36</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>67363516a8734483b7f0ed67a94630e1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Current Drops</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_67363516a8734483b7f0ed67a94630e1</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:36</sys_updated_on>
+<timeline_page display_value=""/>
+<title>Current Drops</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_drop"/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>NEW</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_drop</name>
+<order>340</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>c18f9505f4d24b8e9248b2854ad6034a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>New Drop</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_c18f9505f4d24b8e9248b2854ad6034a</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>New Drop</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_drop">status=upcoming<item goto="false" or="false" field="status" endquery="false" value="upcoming" operator="=" newquery="false"/>
+</filter>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>LIST</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_drop</name>
+<order>350</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:36</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>bad95f216d4541229b1d9f08ed6a8310</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Upcoming Drops</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_bad95f216d4541229b1d9f08ed6a8310</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:36</sys_updated_on>
+<timeline_page display_value=""/>
+<title>Upcoming Drops</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>SEPARATOR</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name/>
+<order>400</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>0cab3091e9bb47758c17051c1d0c5001</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Community Tips</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_0cab3091e9bb47758c17051c1d0c5001</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>Community Tips</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_tip">status=pending^ORDERBYDESCsys_created_on<item goto="false" or="false" field="status" endquery="false" value="pending" operator="=" newquery="false"/>
+<item goto="false" or="false" field="" endquery="false" value="sys_created_on" operator="ORDERBYDESC" newquery="false"/>
+</filter>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>FILTER</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_tip</name>
+<order>410</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>29676e41cf12481f86e37598a73320ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Tips Pending Review</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_29676e41cf12481f86e37598a73320ec</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>Tips Pending Review</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_tip"/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>LIST</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_tip</name>
+<order>420</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>86f9f72d99db4ac990488edd12f40f46</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>All Community Tips</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_86f9f72d99db4ac990488edd12f40f46</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>All Community Tips</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+<sys_app_module action="INSERT_OR_UPDATE">
+<active>true</active>
+<application display_value="Team39 CollectNow">df5340e8191244d1a30f87941c3136f7</application>
+<assessment display_value=""/>
+<device_type/>
+<filter table="x_1234_team39_co_0_tip"/>
+<hint/>
+<homepage display_value=""/>
+<image/>
+<karuna_route/>
+<link_type>NEW</link_type>
+<map_page display_value=""/>
+<mobile_title/>
+<mobile_view_name>Mobile</mobile_view_name>
+<name>x_1234_team39_co_0_tip</name>
+<order>430</order>
+<override_menu_roles>false</override_menu_roles>
+<query/>
+<report display_value=""/>
+<require_confirmation>true</require_confirmation>
+<roles/>
+<route display_value=""/>
+<screen display_value=""/>
+<sys_class_name>sys_app_module</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>42f6b801b6aa40c3aa7fc51c97bbcbd3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>New Community Tip</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_app_module_42f6b801b6aa40c3aa7fc51c97bbcbd3</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<timeline_page display_value=""/>
+<title>New Community Tip</title>
+<uncancelable>false</uncancelable>
+<ux_list display_value=""/>
+<view_name/>
+<window_name/>
+</sys_app_module>
+</unload>

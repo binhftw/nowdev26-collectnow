@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-05 23:42:41">
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>category</element>
+<hint/>
+<inactive>false</inactive>
+<label>Labubu</label>
+<language>en</language>
+<name>x_1234_team39_co_0_collectible</name>
+<sequence>1</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>533adbe4e00f4b64a7cec28edcc42ac7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>labubu</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>category</element>
+<hint/>
+<inactive>false</inactive>
+<label>Pokémon</label>
+<language>en</language>
+<name>x_1234_team39_co_0_collectible</name>
+<sequence>0</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>66ad530ce2074f58a179ee823f4226b6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>pokemon</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>category</element>
+<hint/>
+<inactive>false</inactive>
+<label>Sports Cards</label>
+<language>en</language>
+<name>x_1234_team39_co_0_collectible</name>
+<sequence>2</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>799ac4f419484136ba6a7f0cf5b6f441</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>sports_cards</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>category</element>
+<hint/>
+<inactive>false</inactive>
+<label>Other</label>
+<language>en</language>
+<name>x_1234_team39_co_0_collectible</name>
+<sequence>3</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>c9cc65dede484b599128668fbe666a2c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>other</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>status</element>
+<hint/>
+<inactive>false</inactive>
+<label>Past</label>
+<language>en</language>
+<name>x_1234_team39_co_0_drop</name>
+<sequence>2</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>691a2c291e444ef3ac614aae6cc19ede</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>past</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>status</element>
+<hint/>
+<inactive>false</inactive>
+<label>Upcoming</label>
+<language>en</language>
+<name>x_1234_team39_co_0_drop</name>
+<sequence>0</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>86087b9fe6b34ac49ee1c5f62ff422bb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>upcoming</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>status</element>
+<hint/>
+<inactive>false</inactive>
+<label>Live</label>
+<language>en</language>
+<name>x_1234_team39_co_0_drop</name>
+<sequence>1</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>daa0089471e94fb285b4400e76e93e6e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>live</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>availability</element>
+<hint/>
+<inactive>false</inactive>
+<label>In Stock</label>
+<language>en</language>
+<name>x_1234_team39_co_0_listing</name>
+<sequence>0</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>01191f66516e4515999764d13d9d8854</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>in_stock</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>item_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Sealed / New</label>
+<language>en</language>
+<name>x_1234_team39_co_0_listing</name>
+<sequence>0</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>20a4a3a02aa148808f946114493dd9ec</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>sealed</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>availability</element>
+<hint/>
+<inactive>false</inactive>
+<label>Sold Out</label>
+<language>en</language>
+<name>x_1234_team39_co_0_listing</name>
+<sequence>2</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>263b7c4e93d1433387eb8033fa657050</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>sold_out</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>availability</element>
+<hint/>
+<inactive>false</inactive>
+<label>Low Stock</label>
+<language>en</language>
+<name>x_1234_team39_co_0_listing</name>
+<sequence>1</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>26bb1e5dce374015b473cbd06f453558</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>low_stock</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>item_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Mint</label>
+<language>en</language>
+<name>x_1234_team39_co_0_listing</name>
+<sequence>1</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>679bd6cae0cf46acb13cadbf3b12b932</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>mint</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>item_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Near Mint</label>
+<language>en</language>
+<name>x_1234_team39_co_0_listing</name>
+<sequence>2</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>6dd853d0bf094608a14cefe0dc47e3a1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>near_mint</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>item_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Played</label>
+<language>en</language>
+<name>x_1234_team39_co_0_listing</name>
+<sequence>3</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>8b7afc5b21474c09a10711130f82c0d3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>played</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>item_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Damaged</label>
+<language>en</language>
+<name>x_1234_team39_co_0_listing</name>
+<sequence>4</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>9cc12b70b0014dd48a0356e0edc10c4d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>damaged</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>availability</element>
+<hint/>
+<inactive>false</inactive>
+<label>Ended</label>
+<language>en</language>
+<name>x_1234_team39_co_0_listing</name>
+<sequence>3</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>bc735a5cc5a44e31b04f871a4821c05d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>ended</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>marketplace</element>
+<hint/>
+<inactive>false</inactive>
+<label>PWCC</label>
+<language>en</language>
+<name>x_1234_team39_co_0_sale</name>
+<sequence>6</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>06a72477b612432cbc26f3c328c88598</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>pwcc</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>item_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Damaged</label>
+<language>en</language>
+<name>x_1234_team39_co_0_sale</name>
+<sequence>5</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>1134cd639f2746a5ad04370287982567</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>damaged</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>item_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Played</label>
+<language>en</language>
+<name>x_1234_team39_co_0_sale</name>
+<sequence>4</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>41d598b2dfef437abd45a52cf350a74c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>played</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>item_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Sealed / New</label>
+<language>en</language>
+<name>x_1234_team39_co_0_sale</name>
+<sequence>1</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>5a52cf5499214b77a55e57f0e9e62fc3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>sealed</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>item_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Mint</label>
+<language>en</language>
+<name>x_1234_team39_co_0_sale</name>
+<sequence>2</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>60d4f77e62b44d01bdcec68598c21d23</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>mint</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>marketplace</element>
+<hint/>
+<inactive>false</inactive>
+<label>TCGplayer</label>
+<language>en</language>
+<name>x_1234_team39_co_0_sale</name>
+<sequence>2</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>796727ab89594f9b9337c8e16129ec0a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>tcgplayer</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>marketplace</element>
+<hint/>
+<inactive>false</inactive>
+<label>Whatnot</label>
+<language>en</language>
+<name>x_1234_team39_co_0_sale</name>
+<sequence>3</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>807409b7c8f94752bf8a71401c17755c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>whatnot</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>marketplace</element>
+<hint/>
+<inactive>false</inactive>
+<label>Cardmarket</label>
+<language>en</language>
+<name>x_1234_team39_co_0_sale</name>
+<sequence>5</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>88133eb5f0ae4786810fc24008eaeae6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>cardmarket</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>marketplace</element>
+<hint/>
+<inactive>false</inactive>
+<label>Other</label>
+<language>en</language>
+<name>x_1234_team39_co_0_sale</name>
+<sequence>7</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>a47b1f55356a4c63974ee915353f84c2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>other</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>marketplace</element>
+<hint/>
+<inactive>false</inactive>
+<label>StockX</label>
+<language>en</language>
+<name>x_1234_team39_co_0_sale</name>
+<sequence>4</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>bbfa3516b64349edb1cc8a57791bdfd3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>stockx</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>item_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Near Mint</label>
+<language>en</language>
+<name>x_1234_team39_co_0_sale</name>
+<sequence>3</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>e072be200d13491887e528087a68038f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>near_mint</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>marketplace</element>
+<hint/>
+<inactive>false</inactive>
+<label>eBay</label>
+<language>en</language>
+<name>x_1234_team39_co_0_sale</name>
+<sequence>1</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>e5ea995943cb41cb80a13a5ccc2501a8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>ebay</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>store_type</element>
+<hint/>
+<inactive>false</inactive>
+<label>Retail</label>
+<language>en</language>
+<name>x_1234_team39_co_0_store</name>
+<sequence>1</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>3b2c69fd53444a9aa2bdfb23b73daf5d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>retail</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>store_type</element>
+<hint/>
+<inactive>false</inactive>
+<label>Online</label>
+<language>en</language>
+<name>x_1234_team39_co_0_store</name>
+<sequence>0</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>609563b76a4c444ea726cdd76362d89f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>online</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>store_type</element>
+<hint/>
+<inactive>false</inactive>
+<label>Marketplace</label>
+<language>en</language>
+<name>x_1234_team39_co_0_store</name>
+<sequence>2</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>f339f49633af4b619d678c11a572ec11</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>marketplace</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>source</element>
+<hint/>
+<inactive>false</inactive>
+<label>Email</label>
+<language>en</language>
+<name>x_1234_team39_co_0_tip</name>
+<sequence>0</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>07010a75b04341e4acd4780723773f60</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>email</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>status</element>
+<hint/>
+<inactive>false</inactive>
+<label>Rejected</label>
+<language>en</language>
+<name>x_1234_team39_co_0_tip</name>
+<sequence>2</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>1399d1af367a444a8b90b4b10009374a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>rejected</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>source</element>
+<hint/>
+<inactive>false</inactive>
+<label>Facebook</label>
+<language>en</language>
+<name>x_1234_team39_co_0_tip</name>
+<sequence>1</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>3b629559fc9e4bd3be0898b8817e7fa0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>facebook</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>source</element>
+<hint/>
+<inactive>false</inactive>
+<label>Other</label>
+<language>en</language>
+<name>x_1234_team39_co_0_tip</name>
+<sequence>5</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>4aaca46a2283419a9a2cb6e71716036b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>other</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>status</element>
+<hint/>
+<inactive>false</inactive>
+<label>Approved</label>
+<language>en</language>
+<name>x_1234_team39_co_0_tip</name>
+<sequence>1</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>4c6574a831fa4338aa967732541c9835</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>approved</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>tip_type</element>
+<hint/>
+<inactive>false</inactive>
+<label>Restock</label>
+<language>en</language>
+<name>x_1234_team39_co_0_tip</name>
+<sequence>1</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>617d0019900f4ef6b1f2cb7627af20eb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>restock</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>tip_type</element>
+<hint/>
+<inactive>false</inactive>
+<label>Drop</label>
+<language>en</language>
+<name>x_1234_team39_co_0_tip</name>
+<sequence>0</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>9212495898ed4d2d80a721a29e8d73a7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>drop</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>tip_type</element>
+<hint/>
+<inactive>false</inactive>
+<label>Listing</label>
+<language>en</language>
+<name>x_1234_team39_co_0_tip</name>
+<sequence>2</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>9f4b1a5a0d1040b4bec4607e31ec1446</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>listing</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>source</element>
+<hint/>
+<inactive>false</inactive>
+<label>WhatsApp</label>
+<language>en</language>
+<name>x_1234_team39_co_0_tip</name>
+<sequence>2</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>b4ba74b42dcc41ebb0501d86f472f0fd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>whatsapp</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>status</element>
+<hint/>
+<inactive>false</inactive>
+<label>Pending Review</label>
+<language>en</language>
+<name>x_1234_team39_co_0_tip</name>
+<sequence>0</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>c8d9b0bc338f4a379498f4fe39d0aafa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>pending</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>source</element>
+<hint/>
+<inactive>false</inactive>
+<label>Reddit</label>
+<language>en</language>
+<name>x_1234_team39_co_0_tip</name>
+<sequence>4</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>d5603594029b41669f00e5d1ccfac041</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>reddit</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>source</element>
+<hint/>
+<inactive>false</inactive>
+<label>Discord</label>
+<language>en</language>
+<name>x_1234_team39_co_0_tip</name>
+<sequence>3</sequence>
+<synonyms/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:21</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>e5992d4309544435a15e14a0b01a534f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:21</sys_updated_on>
+<value>discord</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>min_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Damaged</label>
+<language>en</language>
+<name>x_1234_team39_co_0_watch</name>
+<sequence>5</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>14938285c36345c8add4ad777e967b39</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>damaged</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>min_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Played</label>
+<language>en</language>
+<name>x_1234_team39_co_0_watch</name>
+<sequence>4</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>1b8cc21a197f4df78bb9cb0a0163914a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>played</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>min_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Mint</label>
+<language>en</language>
+<name>x_1234_team39_co_0_watch</name>
+<sequence>2</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>1e6a6a662bca4ee3ab3f46f8e8656923</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>mint</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>min_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Sealed / New</label>
+<language>en</language>
+<name>x_1234_team39_co_0_watch</name>
+<sequence>1</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>30f57ca185a2421eb7633d095e3bf110</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>sealed</value>
+</sys_choice>
+<sys_choice action="INSERT_OR_UPDATE">
+<dependent_value/>
+<element>min_condition</element>
+<hint/>
+<inactive>false</inactive>
+<label>Near Mint</label>
+<language>en</language>
+<name>x_1234_team39_co_0_watch</name>
+<sequence>3</sequence>
+<synonyms/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:25</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>f6181e91ba5d4985916de037ade674cd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:25</sys_updated_on>
+<value>near_mint</value>
+</sys_choice>
+</unload>

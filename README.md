@@ -3,7 +3,7 @@
 **Scattered rumors → verified drops and fair prices.**
 A ServiceNow scoped app plus an EmployeeWorks assistant. Collectors use it to find out when the next drop is, where to buy at retail, and whether a resale price is fair. Built by Team39 at the **now[dev]26 hackathon**.
 
-▶️ **Demo video (2:05):** [`docs/demo/collectnow-demo.mp4`](docs/demo/collectnow-demo.mp4)
+▶️ **Demo video (2:05):** [`docs/demo/collectnow-demo.mp4`](docs/demo/collectnow-demo.mp4) · 📄 **[Executive summary](docs/EXECUTIVE_SUMMARY.md)**
 
 ![CollectNow Assistant answering in EmployeeWorks](docs/screenshots/ew3_answer.jpg)
 
@@ -90,18 +90,31 @@ Base path `/api/x_1234_team39_co_0/collector`. Requires the `x_1234_team39_co_0.
 ## Repository layout
 
 ```
-servicenow/
-  metadata/     # App records exported as ServiceNow XML (one file per record type)
-  demo-data/    # Demo records for the app's tables
 docs/
-  demo/         # Demo video + captions
-  screenshots/  # EmployeeWorks and ServiceNow screens
+  EXECUTIVE_SUMMARY.md   # One-page summary for leaders and other devs
+  demo/                  # Demo video + captions
+  screenshots/           # EmployeeWorks and ServiceNow screens
+servicenow/
+  server/
+    business-rules/      # Drop status + tip-approval rules (readable JS)
+    rest-api/            # Collector Context API resources
+    inbound-email/       # Email → Community Tip
+  ui/src/client/         # React/TypeScript source for Collectible Finder + Upcoming Drops
+  data-model/fields.csv  # Every custom field: type, length, reference
+  security/              # Role + ACLs
+  tests/                 # ATF test catalog
+  demo-data/             # Demo records as CSV
+  xml/                   # Full export: every app record in ServiceNow XML (importable)
+    metadata/            #   tables, dictionary, rules, REST, ACLs, ATF, UI pages, modules…
+    demo-data/           #   records for the app's tables
 ```
 
-### Importing into another instance
-Each file in `servicenow/` is a standard ServiceNow XML export (`<unload>` format). On a test instance, go to **System Definition → Tables**, open any list, right-click the header, choose **Import XML**, and upload the files from `metadata/` (start with `sys_app.xml`, `sys_scope_privilege.xml` and `sys_db_object.xml`). Then load `demo-data/` if you want sample records.
+Start with [`servicenow/server/rest-api/collectible_context.js`](servicenow/server/rest-api/collectible_context.js) and [`servicenow/server/business-rules/create_record_from_approved_tip.js`](servicenow/server/business-rules/create_record_from_approved_tip.js). Those two files hold most of the interesting logic.
 
-> This is a backup and showcase export, not a Source Control–linked repo. The app was built on a temporary hackathon instance.
+### Importing into another instance
+Each file under `servicenow/xml/` is a standard ServiceNow XML export (`<unload>` format). On a personal dev instance, open any list, right-click the column header, choose **Import XML**, and upload the files from `xml/metadata/`. Start with `sys_app.xml`, `sys_scope_privilege.xml`, `sys_db_object.xml` and `sys_dictionary.xml`. Then add `xml/demo-data/` if you want the sample records.
+
+> This is a backup and showcase export from a temporary hackathon instance, not a Source Control–linked repo. Plan on some cleanup if you re-import it.
 
 ## Built with
 ServiceNow (scoped app, Business Rules, Scripted REST, ACLs, ATF) · ServiceNow **Build Agent** · **EmployeeWorks** (CollectNow Assistant, connected over OAuth)

@@ -1,0 +1,4862 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-05 23:42:33">
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Description</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>description</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Two Line Text Area">multi_two_lines</internal_type>
+<mandatory>false</mandatory>
+<max_length>4000</max_length>
+<name>x_1234_team39_co_0_collectible</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:12</sys_created_on>
+<sys_id>61c62e6856894c93a1d97785a9ed4592</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Description</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_collectible_description</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:12</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Image</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>image</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Basic Image">image</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_collectible</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:13</sys_created_on>
+<sys_id>8796adaffedb44ac84fa6ae15fdbb77a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Image</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_collectible_image</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:13</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Edition / Variant</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>edition</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="String">string</internal_type>
+<mandatory>false</mandatory>
+<max_length>160</max_length>
+<name>x_1234_team39_co_0_collectible</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:12</sys_created_on>
+<sys_id>9a7564b72e27445db78db5f1409a8417</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Edition / Variant</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_collectible_edition</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:12</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Series / Set</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>series</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="String">string</internal_type>
+<mandatory>false</mandatory>
+<max_length>160</max_length>
+<name>x_1234_team39_co_0_collectible</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:13</sys_created_on>
+<sys_id>c3247eeb5ef04ffeabe6030d6376f7f8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Series / Set</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_collectible_series</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:13</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Name</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>true</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>name</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="String">string</internal_type>
+<mandatory>true</mandatory>
+<max_length>160</max_length>
+<name>x_1234_team39_co_0_collectible</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:13</sys_created_on>
+<sys_id>ceefd7e1c0eb480dbc0984afe4947ce2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Name</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_collectible_name</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:13</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Number</column_label>
+<comments/>
+<create_roles/>
+<default_value>javascript:global.getNextObjNumberPadded();</default_value>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>number</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="String">string</internal_type>
+<mandatory>false</mandatory>
+<max_length>40</max_length>
+<name>x_1234_team39_co_0_collectible</name>
+<next_element/>
+<primary>false</primary>
+<read_only>true</read_only>
+<read_only_option>instance_configured</read_only_option>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:13</sys_created_on>
+<sys_id>d79e5f45b41b45f0a94e1cf53cc4976c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Number</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_collectible_number</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:13</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes>enforce_dot_walk_cross_scope_access=true</attributes>
+<audit>false</audit>
+<calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label/>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element/>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Collection">collection</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_collectible</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass>13</sizeclass>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:13</sys_created_on>
+<sys_id>e0ae66f2857749849a158ebd0e1c03c4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0_collectible</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_collectible_null</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:13</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice>1</choice>
+<choice_field/>
+<choice_table/>
+<column_label>Category</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>category</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Choice">choice</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_collectible</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:12</sys_created_on>
+<sys_id>f3aab31679904fda96f7833ba785f7d1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Category</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_collectible_category</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:12</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Name</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>true</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>name</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="String">string</internal_type>
+<mandatory>true</mandatory>
+<max_length>160</max_length>
+<name>x_1234_team39_co_0_drop</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:14</sys_created_on>
+<sys_id>1ca71ce9bd7d43759c0e9e74a7eed4c2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Name</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_drop_name</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:14</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Release Date</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>release_date</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Date/Time">glide_date_time</internal_type>
+<mandatory>true</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_drop</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:14</sys_created_on>
+<sys_id>2308f8a24874486889f2ccacdf5efa1c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Release Date</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_drop_release_date</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:14</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>End Date</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>end_date</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Date/Time">glide_date_time</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_drop</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:14</sys_created_on>
+<sys_id>7954664c907a442c84ba2b5ebe8f1845</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>End Date</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_drop_end_date</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:14</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice>3</choice>
+<choice_field/>
+<choice_table/>
+<column_label>Status</column_label>
+<comments/>
+<create_roles/>
+<default_value>upcoming</default_value>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>status</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Choice">choice</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_drop</name>
+<next_element/>
+<primary>false</primary>
+<read_only>true</read_only>
+<read_only_option>instance_configured</read_only_option>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:15</sys_created_on>
+<sys_id>a4eb16fad02e4875ad0cb558f3976cf8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Status</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_drop_status</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:15</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Collectible</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>collectible</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Reference">reference</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_drop</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value="Collectible" name="x_1234_team39_co_0_collectible">x_1234_team39_co_0_collectible</reference>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition table="x_1234_team39_co_0_collectible"/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:13</sys_created_on>
+<sys_id>b3b329394865453b92c3d65f39f851ef</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Collectible</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_drop_collectible</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:13</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes>enforce_dot_walk_cross_scope_access=true</attributes>
+<audit>false</audit>
+<calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label/>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element/>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Collection">collection</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_drop</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass>11</sizeclass>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:14</sys_created_on>
+<sys_id>b5847a06ca8f4217b2442af61a9b858f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0_drop</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_drop_null</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:14</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Number</column_label>
+<comments/>
+<create_roles/>
+<default_value>javascript:global.getNextObjNumberPadded();</default_value>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>number</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="String">string</internal_type>
+<mandatory>false</mandatory>
+<max_length>40</max_length>
+<name>x_1234_team39_co_0_drop</name>
+<next_element/>
+<primary>false</primary>
+<read_only>true</read_only>
+<read_only_option>instance_configured</read_only_option>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:14</sys_created_on>
+<sys_id>bb702ff21ae146e990a7e9fc436b0ea4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Number</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_drop_number</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:14</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Retail Price</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>retail_price</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Decimal">decimal</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_drop</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:14</sys_created_on>
+<sys_id>e7ca591024854b08acd0848fb760a14e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Retail Price</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_drop_retail_price</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:14</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Store</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>store</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Reference">reference</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_drop</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value="Store" name="x_1234_team39_co_0_store">x_1234_team39_co_0_store</reference>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition table="x_1234_team39_co_0_store"/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:15</sys_created_on>
+<sys_id>e9119ef1dcb84e80b53cd50182153ef5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Store</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_drop_store</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:15</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Date Listed</column_label>
+<comments/>
+<create_roles/>
+<default_value>javascript:new GlideDateTime().getValue();</default_value>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>date_listed</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Date/Time">glide_date_time</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_listing</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:15</sys_created_on>
+<sys_id>15988cec22814822ba5abdf4bcc745ee</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Date Listed</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_listing_date_listed</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:15</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice>3</choice>
+<choice_field/>
+<choice_table/>
+<column_label>Availability</column_label>
+<comments/>
+<create_roles/>
+<default_value>in_stock</default_value>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>availability</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Choice">choice</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_listing</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:15</sys_created_on>
+<sys_id>5692923659de47d796a8830d1dd203b4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Availability</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_listing_availability</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:15</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice>1</choice>
+<choice_field/>
+<choice_table/>
+<column_label>Condition</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>item_condition</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Choice">choice</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_listing</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:15</sys_created_on>
+<sys_id>5f54db2418874843a1d10ad017388033</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Condition</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_listing_item_condition</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:15</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Collectible</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>collectible</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Reference">reference</internal_type>
+<mandatory>true</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_listing</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value="Collectible" name="x_1234_team39_co_0_collectible">x_1234_team39_co_0_collectible</reference>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition table="x_1234_team39_co_0_collectible"/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:15</sys_created_on>
+<sys_id>7fc5dc970316434e99a383c44f6b60ea</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Collectible</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_listing_collectible</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:15</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Listing URL</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>listing_url</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="URL">url</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_listing</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:15</sys_created_on>
+<sys_id>a3f20cf2465a479a9c5ac2fc13ae4cf1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Listing URL</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_listing_listing_url</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:15</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Number</column_label>
+<comments/>
+<create_roles/>
+<default_value>javascript:global.getNextObjNumberPadded();</default_value>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>true</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>number</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="String">string</internal_type>
+<mandatory>false</mandatory>
+<max_length>40</max_length>
+<name>x_1234_team39_co_0_listing</name>
+<next_element/>
+<primary>false</primary>
+<read_only>true</read_only>
+<read_only_option>instance_configured</read_only_option>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:16</sys_created_on>
+<sys_id>a9857cd9598149eeb0998b318577e5a7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Number</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_listing_number</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:16</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes>enforce_dot_walk_cross_scope_access=true</attributes>
+<audit>false</audit>
+<calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label/>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element/>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Collection">collection</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_listing</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass>38</sizeclass>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:15</sys_created_on>
+<sys_id>bb1124fa54834619958939324c647483</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0_listing</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_listing_null</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:15</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Price</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>price</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Decimal">decimal</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_listing</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:16</sys_created_on>
+<sys_id>caa31f8740b7438888e43c7b21b66d44</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Price</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_listing_price</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:16</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Store</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>store</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Reference">reference</internal_type>
+<mandatory>true</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_listing</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value="Store" name="x_1234_team39_co_0_store">x_1234_team39_co_0_store</reference>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition table="x_1234_team39_co_0_store"/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:16</sys_created_on>
+<sys_id>ecd8e49237d543e988ce528177ebacfc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Store</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_listing_store</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:16</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Drop</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>drop</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Reference">reference</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_listing</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value="Drop" name="x_1234_team39_co_0_drop">x_1234_team39_co_0_drop</reference>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition table="x_1234_team39_co_0_drop"/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:15</sys_created_on>
+<sys_id>f4501b1038ce4bc2ba98e3311e513cd6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Drop</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_listing_drop</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:15</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Condition</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>item_condition</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Choice">choice</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_sale</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:33</sys_created_on>
+<sys_id>3af785bd86aa469a9db3acfca4c97473</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Condition</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_sale_item_condition</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:33</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Sale URL</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>sale_url</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="URL">url</internal_type>
+<mandatory>false</mandatory>
+<max_length>1024</max_length>
+<name>x_1234_team39_co_0_sale</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:34</sys_created_on>
+<sys_id>7852a4fad35a483bb0998db782f0cbd2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Sale URL</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_sale_sale_url</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:34</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Sale Date</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>sale_date</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Date">glide_date</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_sale</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:34</sys_created_on>
+<sys_id>8157f4f129884c6abf7fd21009bfa819</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Sale Date</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_sale_sale_date</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:34</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Store</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>store</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Reference">reference</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_sale</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value="Store" name="x_1234_team39_co_0_store">x_1234_team39_co_0_store</reference>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition table="x_1234_team39_co_0_store"/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:34</sys_created_on>
+<sys_id>8374b0d54a804fd7988b96ec7f21fbd9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Store</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_sale_store</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:34</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Marketplace</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>marketplace</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Choice">choice</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_sale</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:33</sys_created_on>
+<sys_id>8b344978b32e49a6bda5a3319bb72697</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Marketplace</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_sale_marketplace</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:33</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Number</column_label>
+<comments/>
+<create_roles/>
+<default_value>javascript:global.getNextObjNumberPadded();</default_value>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>true</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>number</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="String">string</internal_type>
+<mandatory>false</mandatory>
+<max_length>40</max_length>
+<name>x_1234_team39_co_0_sale</name>
+<next_element/>
+<primary>false</primary>
+<read_only>true</read_only>
+<read_only_option>instance_configured</read_only_option>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:34</sys_created_on>
+<sys_id>9c1d7c8386e7485c899c6f0c0ad36a43</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Number</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_sale_number</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:34</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Sale Price</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>sale_price</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Decimal">decimal</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_sale</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:34</sys_created_on>
+<sys_id>b92971e5876e4c4c9bfafc691b8d6d6a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Sale Price</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_sale_sale_price</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:34</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Collectible</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>collectible</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Reference">reference</internal_type>
+<mandatory>true</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_sale</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value="Collectible" name="x_1234_team39_co_0_collectible">x_1234_team39_co_0_collectible</reference>
+<reference_cascade_rule>delete</reference_cascade_rule>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition table="x_1234_team39_co_0_collectible"/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:33</sys_created_on>
+<sys_id>d050453931704e65b0708b21c2ffe2ba</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Collectible</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_sale_collectible</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:33</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label/>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element/>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Collection">collection</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_sale</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass>0</sizeclass>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:33</sys_created_on>
+<sys_id>df79a3716b124d5fbb2fff523f0f11c2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0_sale</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_sale_NULL</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:33</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Name</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>true</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>name</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="String">string</internal_type>
+<mandatory>true</mandatory>
+<max_length>100</max_length>
+<name>x_1234_team39_co_0_store</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:17</sys_created_on>
+<sys_id>05e790d7dec2485d87b15cd0862c9b21</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Name</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_store_name</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:17</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Number</column_label>
+<comments/>
+<create_roles/>
+<default_value>javascript:global.getNextObjNumberPadded();</default_value>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>number</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="String">string</internal_type>
+<mandatory>false</mandatory>
+<max_length>40</max_length>
+<name>x_1234_team39_co_0_store</name>
+<next_element/>
+<primary>false</primary>
+<read_only>true</read_only>
+<read_only_option>instance_configured</read_only_option>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:17</sys_created_on>
+<sys_id>41b60936ca964002824b9cdfa6f5c656</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Number</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_store_number</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:17</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Website</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>website</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="URL">url</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_store</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:17</sys_created_on>
+<sys_id>822eda8123044f31b9677d127ddb10d9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Website</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_store_website</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:17</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Location</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>location</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="String">string</internal_type>
+<mandatory>false</mandatory>
+<max_length>160</max_length>
+<name>x_1234_team39_co_0_store</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:17</sys_created_on>
+<sys_id>ab4a13dd63744a81830bbcff61254848</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Location</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_store_location</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:17</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes>enforce_dot_walk_cross_scope_access=true</attributes>
+<audit>false</audit>
+<calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label/>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element/>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Collection">collection</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_store</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass>16</sizeclass>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:17</sys_created_on>
+<sys_id>ad5e02012576433aa3510b57b9b4578b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0_store</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_store_null</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:17</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Active</column_label>
+<comments/>
+<create_roles/>
+<default_value>true</default_value>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>active</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="True/False">boolean</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_store</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:16</sys_created_on>
+<sys_id>ddb25bccc0ca4a7e997e8253a3ef04d9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Active</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_store_active</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:16</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice>1</choice>
+<choice_field/>
+<choice_table/>
+<column_label>Store Type</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>store_type</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Choice">choice</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_store</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:17</sys_created_on>
+<sys_id>fa5dbc53996346d29c901034dbdd6eab</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Store Type</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_store_store_type</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:17</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Number</column_label>
+<comments/>
+<create_roles/>
+<default_value>javascript:global.getNextObjNumberPadded();</default_value>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>number</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="String">string</internal_type>
+<mandatory>false</mandatory>
+<max_length>40</max_length>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>true</read_only>
+<read_only_option>instance_configured</read_only_option>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:18</sys_created_on>
+<sys_id>034637e6ce194e82a5d73d91dbce8efe</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Number</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_number</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:18</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Source Link</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>source_link</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="URL">url</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:19</sys_created_on>
+<sys_id>511bb4b25d5d45e0b20ed656f9b61dc8</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Source Link</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_source_link</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:19</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Reviewer Notes</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>reviewer_notes</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Two Line Text Area">multi_two_lines</internal_type>
+<mandatory>false</mandatory>
+<max_length>4000</max_length>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:19</sys_created_on>
+<sys_id>67597dd8274b49cf8ec4dbc157235942</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Reviewer Notes</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_reviewer_notes</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:19</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Matched Store</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>store</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Reference">reference</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value="Store" name="x_1234_team39_co_0_store">x_1234_team39_co_0_store</reference>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition table="x_1234_team39_co_0_store"/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:20</sys_created_on>
+<sys_id>6cedb59f130b4d63ad54184c47a12542</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Matched Store</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_store</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:20</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Resulting Drop</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>resulting_drop</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Reference">reference</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>true</read_only>
+<read_only_option>instance_configured</read_only_option>
+<read_roles/>
+<reference display_value="Drop" name="x_1234_team39_co_0_drop">x_1234_team39_co_0_drop</reference>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition table="x_1234_team39_co_0_drop"/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:18</sys_created_on>
+<sys_id>6d202856d208411eaf65550f61dbf7a1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Resulting Drop</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_resulting_drop</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:18</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice>3</choice>
+<choice_field/>
+<choice_table/>
+<column_label>Status</column_label>
+<comments/>
+<create_roles/>
+<default_value>pending</default_value>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>status</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Choice">choice</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:19</sys_created_on>
+<sys_id>7b2a4019a8ea4a478935e7a78319fefa</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Status</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_status</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:19</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Suggested Price</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>suggested_price</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Decimal">decimal</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:20</sys_created_on>
+<sys_id>91970b3752c2409fb88fb4ec779c1497</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Suggested Price</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_suggested_price</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:20</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Matched Collectible</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>collectible</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Reference">reference</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value="Collectible" name="x_1234_team39_co_0_collectible">x_1234_team39_co_0_collectible</reference>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition table="x_1234_team39_co_0_collectible"/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:18</sys_created_on>
+<sys_id>95880e6ddbd445ec825fe378ef60d292</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Matched Collectible</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_collectible</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:18</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Submitted By</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>submitted_by</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Reference">reference</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value="User" name="sys_user">sys_user</reference>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition table="sys_user"/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:20</sys_created_on>
+<sys_id>b2424560dc364ebabadd17735b687c8e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Submitted By</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_submitted_by</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:20</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice>1</choice>
+<choice_field/>
+<choice_table/>
+<column_label>Tip Type</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>tip_type</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Choice">choice</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:20</sys_created_on>
+<sys_id>b2b321ddb9e84f739ff43c6c97b6f1bf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Tip Type</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_tip_type</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:20</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Suggested Date</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>suggested_date</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Date/Time">glide_date_time</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:20</sys_created_on>
+<sys_id>c50a987eb29b4e9898f69058cfb45dcf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Suggested Date</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_suggested_date</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:20</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Resulting Listing</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>resulting_listing</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Reference">reference</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>true</read_only>
+<read_only_option>instance_configured</read_only_option>
+<read_roles/>
+<reference display_value="Store Listing" name="x_1234_team39_co_0_listing">x_1234_team39_co_0_listing</reference>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition table="x_1234_team39_co_0_listing"/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:18</sys_created_on>
+<sys_id>c9cd8394db0c4f33ab76304412093b6a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Resulting Listing</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_resulting_listing</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:18</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Title</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>true</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>title</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="String">string</internal_type>
+<mandatory>true</mandatory>
+<max_length>200</max_length>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:20</sys_created_on>
+<sys_id>e09012305ffa43c0a9be8821770ea54c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Title</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_title</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:20</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice>1</choice>
+<choice_field/>
+<choice_table/>
+<column_label>Source</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>source</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Choice">choice</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:19</sys_created_on>
+<sys_id>f7a30d7e05684d0abcc7d3886b66c3e6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Source</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_source</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:19</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes>enforce_dot_walk_cross_scope_access=true</attributes>
+<audit>false</audit>
+<calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label/>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element/>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Collection">collection</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass>9</sizeclass>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:18</sys_created_on>
+<sys_id>fac7c79e0baf4ce4831861b34ad81363</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0_tip</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_null</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:18</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Raw Text</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>raw_text</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Two Line Text Area">multi_two_lines</internal_type>
+<mandatory>false</mandatory>
+<max_length>8000</max_length>
+<name>x_1234_team39_co_0_tip</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:18</sys_created_on>
+<sys_id>ff9af5dcf87e4900bccdbefb2ea2b875</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Raw Text</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_tip_raw_text</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:18</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Number</column_label>
+<comments/>
+<create_roles/>
+<default_value>javascript:global.getNextObjNumberPadded();</default_value>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>true</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>number</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="String">string</internal_type>
+<mandatory>false</mandatory>
+<max_length>40</max_length>
+<name>x_1234_team39_co_0_watch</name>
+<next_element/>
+<primary>false</primary>
+<read_only>true</read_only>
+<read_only_option>instance_configured</read_only_option>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:36</sys_created_on>
+<sys_id>0ab4db1535ba4eff9d6caefed55e85f9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Number</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_watch_number</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:36</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label/>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element/>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Collection">collection</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_watch</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass>0</sizeclass>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:35</sys_created_on>
+<sys_id>48292afce8e6439a8c36991681ff8173</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0_watch</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_watch_NULL</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:35</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Active</column_label>
+<comments/>
+<create_roles/>
+<default_value>true</default_value>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>active</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="True/False">boolean</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_watch</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:35</sys_created_on>
+<sys_id>599ff598f0f342f8affe20bbe6b0f176</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Active</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_watch_active</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:35</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Send Alerts</column_label>
+<comments/>
+<create_roles/>
+<default_value>true</default_value>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>notify</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="True/False">boolean</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_watch</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:35</sys_created_on>
+<sys_id>714eaa81474849c59635f431cd15313c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Send Alerts</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_watch_notify</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:35</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Collectible</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>collectible</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Reference">reference</internal_type>
+<mandatory>true</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_watch</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value="Collectible" name="x_1234_team39_co_0_collectible">x_1234_team39_co_0_collectible</reference>
+<reference_cascade_rule>delete</reference_cascade_rule>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition table="x_1234_team39_co_0_collectible"/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:35</sys_created_on>
+<sys_id>9609a0d25c62456b8264fd8c0c88ba13</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Collectible</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_watch_collectible</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:35</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Collector</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>watcher</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Reference">reference</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_watch</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value="User" name="sys_user">sys_user</reference>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition table="sys_user"/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:36</sys_created_on>
+<sys_id>ac5692036f824ea49cda03be443cacf3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Collector</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_watch_watcher</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:36</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Max Price</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>max_price</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Decimal">decimal</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_watch</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:35</sys_created_on>
+<sys_id>bc41b82f6b5045ebab6fb002e41bf752</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Max Price</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_watch_max_price</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:35</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+<sys_dictionary action="INSERT_OR_UPDATE">
+<active>true</active>
+<array>false</array>
+<array_denormalized>false</array_denormalized>
+<attributes/>
+<audit>false</audit>
+<calculation/>
+<choice/>
+<choice_field/>
+<choice_table/>
+<column_label>Minimum Condition</column_label>
+<comments/>
+<create_roles/>
+<default_value/>
+<defaultsort/>
+<delete_roles/>
+<dependent/>
+<dependent_on_field/>
+<display>false</display>
+<dynamic_creation>false</dynamic_creation>
+<dynamic_creation_script/>
+<dynamic_default_value display_value=""/>
+<dynamic_ref_qual display_value=""/>
+<element>min_condition</element>
+<element_reference>false</element_reference>
+<foreign_database/>
+<formula/>
+<function_definition/>
+<function_field>false</function_field>
+<internal_type display_value="Choice">choice</internal_type>
+<mandatory>false</mandatory>
+<max_length/>
+<name>x_1234_team39_co_0_watch</name>
+<next_element/>
+<primary>false</primary>
+<read_only>false</read_only>
+<read_only_option/>
+<read_roles/>
+<reference display_value=""/>
+<reference_cascade_rule/>
+<reference_floats>false</reference_floats>
+<reference_key/>
+<reference_qual/>
+<reference_qual_condition/>
+<reference_type/>
+<sizeclass/>
+<spell_check>false</spell_check>
+<staged>false</staged>
+<sys_class_name>sys_dictionary</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:35</sys_created_on>
+<sys_id>db80a8bda73b42009c63364753118bd9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Minimum Condition</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_dictionary_x_1234_team39_co_0_watch_min_condition</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:35</sys_updated_on>
+<table_reference>false</table_reference>
+<text_index>false</text_index>
+<unique>false</unique>
+<use_dependent_field>false</use_dependent_field>
+<use_dynamic_default>false</use_dynamic_default>
+<use_reference_qualifier>simple</use_reference_qualifier>
+<virtual>false</virtual>
+<virtual_type>script</virtual_type>
+<widget/>
+<write_roles/>
+<xml_view>false</xml_view>
+</sys_dictionary>
+</unload>

@@ -1,0 +1,68 @@
+table,field,label,type,max_length,reference,mandatory
+x_1234_team39_co_0_collectible,,,Collection,,,false
+x_1234_team39_co_0_collectible,category,Category,Choice,,,false
+x_1234_team39_co_0_collectible,description,Description,Two Line Text Area,4000,,false
+x_1234_team39_co_0_collectible,edition,Edition / Variant,String,160,,false
+x_1234_team39_co_0_collectible,image,Image,Basic Image,,,false
+x_1234_team39_co_0_collectible,name,Name,String,160,,true
+x_1234_team39_co_0_collectible,number,Number,String,40,,false
+x_1234_team39_co_0_collectible,series,Series / Set,String,160,,false
+x_1234_team39_co_0_drop,,,Collection,,,false
+x_1234_team39_co_0_drop,collectible,Collectible,Reference,,Collectible,false
+x_1234_team39_co_0_drop,end_date,End Date,Date/Time,,,false
+x_1234_team39_co_0_drop,name,Name,String,160,,true
+x_1234_team39_co_0_drop,number,Number,String,40,,false
+x_1234_team39_co_0_drop,release_date,Release Date,Date/Time,,,true
+x_1234_team39_co_0_drop,retail_price,Retail Price,Decimal,,,false
+x_1234_team39_co_0_drop,status,Status,Choice,,,false
+x_1234_team39_co_0_drop,store,Store,Reference,,Store,false
+x_1234_team39_co_0_listing,,,Collection,,,false
+x_1234_team39_co_0_listing,availability,Availability,Choice,,,false
+x_1234_team39_co_0_listing,collectible,Collectible,Reference,,Collectible,true
+x_1234_team39_co_0_listing,date_listed,Date Listed,Date/Time,,,false
+x_1234_team39_co_0_listing,drop,Drop,Reference,,Drop,false
+x_1234_team39_co_0_listing,item_condition,Condition,Choice,,,false
+x_1234_team39_co_0_listing,listing_url,Listing URL,URL,,,false
+x_1234_team39_co_0_listing,number,Number,String,40,,false
+x_1234_team39_co_0_listing,price,Price,Decimal,,,false
+x_1234_team39_co_0_listing,store,Store,Reference,,Store,true
+x_1234_team39_co_0_sale,,,Collection,,,false
+x_1234_team39_co_0_sale,collectible,Collectible,Reference,,Collectible,true
+x_1234_team39_co_0_sale,item_condition,Condition,Choice,,,false
+x_1234_team39_co_0_sale,marketplace,Marketplace,Choice,,,false
+x_1234_team39_co_0_sale,number,Number,String,40,,false
+x_1234_team39_co_0_sale,sale_date,Sale Date,Date,,,false
+x_1234_team39_co_0_sale,sale_price,Sale Price,Decimal,,,false
+x_1234_team39_co_0_sale,sale_url,Sale URL,URL,1024,,false
+x_1234_team39_co_0_sale,store,Store,Reference,,Store,false
+x_1234_team39_co_0_store,,,Collection,,,false
+x_1234_team39_co_0_store,active,Active,True/False,,,false
+x_1234_team39_co_0_store,location,Location,String,160,,false
+x_1234_team39_co_0_store,name,Name,String,100,,true
+x_1234_team39_co_0_store,number,Number,String,40,,false
+x_1234_team39_co_0_store,store_type,Store Type,Choice,,,false
+x_1234_team39_co_0_store,website,Website,URL,,,false
+x_1234_team39_co_0_tip,,,Collection,,,false
+x_1234_team39_co_0_tip,collectible,Matched Collectible,Reference,,Collectible,false
+x_1234_team39_co_0_tip,number,Number,String,40,,false
+x_1234_team39_co_0_tip,raw_text,Raw Text,Two Line Text Area,8000,,false
+x_1234_team39_co_0_tip,resulting_drop,Resulting Drop,Reference,,Drop,false
+x_1234_team39_co_0_tip,resulting_listing,Resulting Listing,Reference,,Store Listing,false
+x_1234_team39_co_0_tip,reviewer_notes,Reviewer Notes,Two Line Text Area,4000,,false
+x_1234_team39_co_0_tip,source,Source,Choice,,,false
+x_1234_team39_co_0_tip,source_link,Source Link,URL,,,false
+x_1234_team39_co_0_tip,status,Status,Choice,,,false
+x_1234_team39_co_0_tip,store,Matched Store,Reference,,Store,false
+x_1234_team39_co_0_tip,submitted_by,Submitted By,Reference,,User,false
+x_1234_team39_co_0_tip,suggested_date,Suggested Date,Date/Time,,,false
+x_1234_team39_co_0_tip,suggested_price,Suggested Price,Decimal,,,false
+x_1234_team39_co_0_tip,tip_type,Tip Type,Choice,,,false
+x_1234_team39_co_0_tip,title,Title,String,200,,true
+x_1234_team39_co_0_watch,,,Collection,,,false
+x_1234_team39_co_0_watch,active,Active,True/False,,,false
+x_1234_team39_co_0_watch,collectible,Collectible,Reference,,Collectible,true
+x_1234_team39_co_0_watch,max_price,Max Price,Decimal,,,false
+x_1234_team39_co_0_watch,min_condition,Minimum Condition,Choice,,,false
+x_1234_team39_co_0_watch,notify,Send Alerts,True/False,,,false
+x_1234_team39_co_0_watch,number,Number,String,40,,false
+x_1234_team39_co_0_watch,watcher,Collector,Reference,,User,false

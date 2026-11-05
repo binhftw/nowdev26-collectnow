@@ -1,0 +1,17 @@
+number,name,store_type,website,location,active
+STR0001004,Pokémon Center,online,https://www.pokemoncenter.com,,true
+STR0001005,TCGplayer,online,https://www.tcgplayer.com,,true
+STR0001006,eBay,online,https://www.ebay.com,,true
+STR0001007,Cardmarket,online,https://www.cardmarket.com,Europe,true
+STR0001008,Pop Mart,online,https://www.popmart.com,,true
+STR0001009,Topps,online,https://www.topps.com,,true
+STR0001010,Panini America,online,https://www.paniniamerica.net,,true
+STR0001011,Fanatics Collect,online,https://fanaticscollect.com,,true
+STR0001012,Whatnot,online,https://www.whatnot.com,,true
+STR0001013,StockX,online,https://stockx.com,,true
+STR0001014,COMC,online,https://www.comc.com,,true
+STR0001015,Target,retail,https://www.target.com,Nationwide (US),true
+STR0001016,Walmart,retail,https://www.walmart.com,Nationwide (US),true
+STR0001017,GameStop,retail,https://www.gamestop.com,Nationwide (US),true
+STR0001018,Pop Mart (retail stores),retail,https://www.popmart.com,Select malls,true
+STR0001019,Local Card Shop,retail,,Your city,true

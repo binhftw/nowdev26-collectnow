@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-05 23:42:45">
+<x_1234_team39_co_0_tip action="INSERT_OR_UPDATE">
+<collectible display_value="Labubu Big Into Energy Blind Box">1774ca221450d3107f4417eef39ebeb8</collectible>
+<number>TIP0001009</number>
+<raw_text>Seeing posts that Pop Mart US will restock Big Into Energy online later this week.</raw_text>
+<resulting_drop display_value="Labubu Big Into Energy restock rumor">5cca4aae1450d3107f4417eef39ebec5</resulting_drop>
+<resulting_listing display_value=""/>
+<reviewer_notes>Confirmed on Pop Mart US social channels.</reviewer_notes>
+<source>reddit</source>
+<source_link>https://www.reddit.com</source_link>
+<status>approved</status>
+<store display_value="Pop Mart">3342c6aa1410d3107f4417eef39ebe42</store>
+<submitted_by display_value="Hackathon Admin 3">c33ce83d80d4d3107f44339a59e1a9b4</submitted_by>
+<suggested_date>2026-11-09 23:49:17</suggested_date>
+<suggested_price>27.99</suggested_price>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>c6f58ae21450d3107f4417eef39ebee2</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+<tip_type>drop</tip_type>
+<title>Labubu Big Into Energy restock rumor</title>
+</x_1234_team39_co_0_tip>
+<x_1234_team39_co_0_tip action="INSERT_OR_UPDATE">
+<collectible display_value="Journey Together Booster Bundle">5b74ca221450d3107f4417eef39ebeb6</collectible>
+<number>TIP0001010</number>
+<raw_text>Store associate said a pallet of Journey Together bundles arrives in two days.</raw_text>
+<resulting_drop display_value="Journey Together restock at Walmart">58ca4aae1450d3107f4417eef39ebed9</resulting_drop>
+<resulting_listing display_value=""/>
+<reviewer_notes>Store associate confirmed the shipment date.</reviewer_notes>
+<source>email</source>
+<source_link>https://www.walmart.com</source_link>
+<status>approved</status>
+<store display_value="Walmart">3342c6aa1410d3107f4417eef39ebe47</store>
+<submitted_by display_value="Hackathon Admin 3">c33ce83d80d4d3107f44339a59e1a9b4</submitted_by>
+<suggested_date>2026-11-06 23:49:17</suggested_date>
+<suggested_price>26.94</suggested_price>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>cef58ae21450d3107f4417eef39ebee3</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+<tip_type>drop</tip_type>
+<title>Journey Together restock at Walmart</title>
+</x_1234_team39_co_0_tip>
+<x_1234_team39_co_0_tip action="INSERT_OR_UPDATE">
+<collectible display_value="Prismatic Evolutions Elite Trainer Box">d774ca221450d3107f4417eef39ebeb4</collectible>
+<number>TIP0001011</number>
+<raw_text>Local group reports Prismatic ETBs restocked at several Target stores this morning.</raw_text>
+<resulting_drop display_value=""/>
+<resulting_listing display_value="LST0001038">98ca4aae1450d3107f4417eef39ebeda</resulting_listing>
+<reviewer_notes>Verified on Target app stock checker.</reviewer_notes>
+<source>facebook</source>
+<source_link>https://www.target.com</source_link>
+<status>approved</status>
+<store display_value="Target">b742c6aa1410d3107f4417eef39ebe46</store>
+<submitted_by display_value="Hackathon Admin 3">c33ce83d80d4d3107f44339a59e1a9b4</submitted_by>
+<suggested_date/>
+<suggested_price>59.99</suggested_price>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>caf58ae21450d3107f4417eef39ebee4</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+<tip_type>restock</tip_type>
+<title>Prismatic ETBs back at Target</title>
+</x_1234_team39_co_0_tip>
+<x_1234_team39_co_0_tip action="INSERT_OR_UPDATE">
+<collectible display_value="Surging Sparks Booster Box">1374ca221450d3107f4417eef39ebeb6</collectible>
+<number>TIP0001012</number>
+<raw_text>Friend shared that several TCGplayer sellers just restocked booster boxes.</raw_text>
+<resulting_drop display_value=""/>
+<resulting_listing display_value="LST0001039">98ca4aae1450d3107f4417eef39ebedb</resulting_listing>
+<reviewer_notes>Multiple sellers confirmed restock.</reviewer_notes>
+<source>whatsapp</source>
+<source_link>https://www.tcgplayer.com</source_link>
+<status>approved</status>
+<store display_value="TCGplayer">7342c6aa1410d3107f4417eef39ebe40</store>
+<submitted_by display_value="Hackathon Admin 3">c33ce83d80d4d3107f44339a59e1a9b4</submitted_by>
+<suggested_date/>
+<suggested_price>139.99</suggested_price>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>c6f58ae21450d3107f4417eef39ebee5</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+<tip_type>restock</tip_type>
+<title>Surging Sparks restock on TCGplayer</title>
+</x_1234_team39_co_0_tip>
+<x_1234_team39_co_0_tip action="INSERT_OR_UPDATE">
+<collectible display_value="2024 Topps Chrome Baseball Hobby Box">5f74ca221450d3107f4417eef39ebeb8</collectible>
+<number>TIP0001013</number>
+<raw_text>Live breaker is selling sealed Topps Chrome hobby boxes below retail tonight.</raw_text>
+<resulting_drop display_value=""/>
+<resulting_listing display_value="LST0001040">58ca4aae1450d3107f4417eef39ebedc</resulting_listing>
+<reviewer_notes>Price verified during live show.</reviewer_notes>
+<source>other</source>
+<source_link>https://www.whatnot.com</source_link>
+<status>approved</status>
+<store display_value="Whatnot">3b42c6aa1410d3107f4417eef39ebe44</store>
+<submitted_by display_value="Hackathon Admin 3">c33ce83d80d4d3107f44339a59e1a9b4</submitted_by>
+<suggested_date/>
+<suggested_price>235</suggested_price>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>c2f58ae21450d3107f4417eef39ebee6</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+<tip_type>listing</tip_type>
+<title>Topps Chrome hobby box on Whatnot</title>
+</x_1234_team39_co_0_tip>
+<x_1234_team39_co_0_tip action="INSERT_OR_UPDATE">
+<collectible display_value="Labubu Have a Seat Blind Box">db74ca221450d3107f4417eef39ebeb7</collectible>
+<number>TIP0001014</number>
+<raw_text>Heard there is a new Labubu drop next month, store unknown.</raw_text>
+<resulting_drop display_value=""/>
+<resulting_listing display_value=""/>
+<reviewer_notes>Rejected: no store or source given. Resubmit with details.</reviewer_notes>
+<source>other</source>
+<source_link/>
+<status>rejected</status>
+<store display_value=""/>
+<submitted_by display_value="Hackathon Admin 3">c33ce83d80d4d3107f44339a59e1a9b4</submitted_by>
+<suggested_date>2026-12-04 23:49:17</suggested_date>
+<suggested_price/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>4ef58ae21450d3107f4417eef39ebee6</sys_id>
+<sys_mod_count>1</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+<tip_type>drop</tip_type>
+<title>Mystery Labubu drop next month</title>
+</x_1234_team39_co_0_tip>
+<x_1234_team39_co_0_tip action="INSERT_OR_UPDATE">
+<collectible display_value="One Piece Card Game Romance Dawn Booster Box">d0ca4aae1450d3107f4417eef39ebebf</collectible>
+<number>TIP0001015</number>
+<raw_text>Local card shop posted that they got a few more Romance Dawn boxes in.</raw_text>
+<resulting_drop display_value=""/>
+<resulting_listing display_value=""/>
+<reviewer_notes/>
+<source>facebook</source>
+<source_link/>
+<status>pending</status>
+<store display_value="Local Card Shop">bf42c6aa1410d3107f4417eef39ebe48</store>
+<submitted_by display_value="Hackathon Admin 3">c33ce83d80d4d3107f44339a59e1a9b4</submitted_by>
+<suggested_date/>
+<suggested_price>339.99</suggested_price>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>10ca4aae1450d3107f4417eef39ebede</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+<tip_type>restock</tip_type>
+<title>One Piece OP-01 restock at local shop</title>
+</x_1234_team39_co_0_tip>
+<x_1234_team39_co_0_tip action="INSERT_OR_UPDATE">
+<collectible display_value="Funko Pop! Pikachu Vinyl Figure">9cca4aae1450d3107f4417eef39ebebf</collectible>
+<number>TIP0001016</number>
+<raw_text>Pikachu Funko Pop showing in stock online again at GameStop.</raw_text>
+<resulting_drop display_value=""/>
+<resulting_listing display_value=""/>
+<reviewer_notes/>
+<source>reddit</source>
+<source_link>https://www.gamestop.com</source_link>
+<status>pending</status>
+<store display_value="GameStop">bb42c6aa1410d3107f4417eef39ebe47</store>
+<submitted_by display_value="Hackathon Admin 3">c33ce83d80d4d3107f44339a59e1a9b4</submitted_by>
+<suggested_date/>
+<suggested_price>12.99</suggested_price>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>9cca4aae1450d3107f4417eef39ebede</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+<tip_type>listing</tip_type>
+<title>Pikachu Funko Pop back at GameStop</title>
+</x_1234_team39_co_0_tip>
+<x_1234_team39_co_0_tip action="INSERT_OR_UPDATE">
+<collectible display_value="2024-25 Panini Prizm Basketball Hobby Box">9774ca221450d3107f4417eef39ebeb9</collectible>
+<number>TIP0001017</number>
+<raw_text>Newsletter says Fanatics Collect will release a batch of Prizm Basketball hobby boxes.</raw_text>
+<resulting_drop display_value=""/>
+<resulting_listing display_value=""/>
+<reviewer_notes/>
+<source>email</source>
+<source_link>https://fanaticscollect.com</source_link>
+<status>pending</status>
+<store display_value="Fanatics Collect">bf42c6aa1410d3107f4417eef39ebe43</store>
+<submitted_by display_value="Hackathon Admin 3">c33ce83d80d4d3107f44339a59e1a9b4</submitted_by>
+<suggested_date>2026-11-17 00:10:11</suggested_date>
+<suggested_price>899.99</suggested_price>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>18ca4aae1450d3107f4417eef39ebedf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+<tip_type>drop</tip_type>
+<title>Prizm Basketball hobby drop on Fanatics</title>
+</x_1234_team39_co_0_tip>
+</unload>

@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-05 23:42:35">
+<sys_scope_privilege action="INSERT_OR_UPDATE">
+<operation>execute</operation>
+<source_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</source_scope>
+<status>allowed</status>
+<sys_class_name>sys_scope_privilege</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:20:18</sys_created_on>
+<sys_id>1c1d82e21490d3107f4417eef39ebe9f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>ScriptableRESTMessageClient.saveResponseBodyAsAttachment</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_scope_privilege_1c1d82e21490d3107f4417eef39ebe9f</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:20:18</sys_updated_on>
+<target_name>ScriptableRESTMessageClient.saveResponseBodyAsAttachment</target_name>
+<target_scope display_value="Global">global</target_scope>
+<target_type>scriptable</target_type>
+</sys_scope_privilege>
+<sys_scope_privilege action="INSERT_OR_UPDATE">
+<operation>execute</operation>
+<source_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</source_scope>
+<status>allowed</status>
+<sys_class_name>sys_scope_privilege</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>1cca4aae1450d3107f4417eef39ebec7</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>ScopedGlideElement</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_scope_privilege_1cca4aae1450d3107f4417eef39ebec7</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+<target_name>ScopedGlideElement</target_name>
+<target_scope display_value="Global">global</target_scope>
+<target_type>scriptable</target_type>
+</sys_scope_privilege>
+<sys_scope_privilege action="INSERT_OR_UPDATE">
+<operation>execute</operation>
+<source_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</source_scope>
+<status>allowed</status>
+<sys_class_name>sys_scope_privilege</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:20:19</sys_created_on>
+<sys_id>201d82e21490d3107f4417eef39ebeb5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>ScriptableRESTResponse.getStatusCode</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_scope_privilege_201d82e21490d3107f4417eef39ebeb5</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:20:19</sys_updated_on>
+<target_name>ScriptableRESTResponse.getStatusCode</target_name>
+<target_scope display_value="Global">global</target_scope>
+<target_type>scriptable</target_type>
+</sys_scope_privilege>
+<sys_scope_privilege action="INSERT_OR_UPDATE">
+<operation>execute</operation>
+<source_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</source_scope>
+<status>allowed</status>
+<sys_class_name>sys_scope_privilege</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:20:18</sys_created_on>
+<sys_id>581d42e21490d3107f4417eef39ebe0d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>ScriptableRESTMessageClient.setEndpoint</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_scope_privilege_581d42e21490d3107f4417eef39ebe0d</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:20:18</sys_updated_on>
+<target_name>ScriptableRESTMessageClient.setEndpoint</target_name>
+<target_scope display_value="Global">global</target_scope>
+<target_type>scriptable</target_type>
+</sys_scope_privilege>
+<sys_scope_privilege action="INSERT_OR_UPDATE">
+<operation>execute</operation>
+<source_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</source_scope>
+<status>allowed</status>
+<sys_class_name>sys_scope_privilege</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:33:17</sys_created_on>
+<sys_id>7b42c6aa1410d3107f4417eef39ebe3a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>GlideRecord.insert</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_scope_privilege_7b42c6aa1410d3107f4417eef39ebe3a</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-04 23:33:17</sys_updated_on>
+<target_name>GlideRecord.insert</target_name>
+<target_scope display_value="Global">global</target_scope>
+<target_type>scriptable</target_type>
+</sys_scope_privilege>
+<sys_scope_privilege action="INSERT_OR_UPDATE">
+<operation>execute</operation>
+<source_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</source_scope>
+<status>allowed</status>
+<sys_class_name>sys_scope_privilege</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:33:17</sys_created_on>
+<sys_id>b742c6aa1410d3107f4417eef39ebe33</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>GlideRecord.setValue</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_scope_privilege_b742c6aa1410d3107f4417eef39ebe33</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-04 23:33:17</sys_updated_on>
+<target_name>GlideRecord.setValue</target_name>
+<target_scope display_value="Global">global</target_scope>
+<target_type>scriptable</target_type>
+</sys_scope_privilege>
+<sys_scope_privilege action="INSERT_OR_UPDATE">
+<operation>execute</operation>
+<source_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</source_scope>
+<status>allowed</status>
+<sys_class_name>sys_scope_privilege</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:20:18</sys_created_on>
+<sys_id>dc1d42e21490d3107f4417eef39ebe08</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>ScriptableRESTMessageClient.setHttpMethod</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_scope_privilege_dc1d42e21490d3107f4417eef39ebe08</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:20:18</sys_updated_on>
+<target_name>ScriptableRESTMessageClient.setHttpMethod</target_name>
+<target_scope display_value="Global">global</target_scope>
+<target_type>scriptable</target_type>
+</sys_scope_privilege>
+<sys_scope_privilege action="INSERT_OR_UPDATE">
+<operation>execute</operation>
+<source_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</source_scope>
+<status>allowed</status>
+<sys_class_name>sys_scope_privilege</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:20:18</sys_created_on>
+<sys_id>dc1d82e21490d3107f4417eef39ebea3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>ScriptableRESTMessageClient.execute</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_scope_privilege_dc1d82e21490d3107f4417eef39ebea3</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:20:18</sys_updated_on>
+<target_name>ScriptableRESTMessageClient.execute</target_name>
+<target_scope display_value="Global">global</target_scope>
+<target_type>scriptable</target_type>
+</sys_scope_privilege>
+<sys_scope_privilege action="INSERT_OR_UPDATE">
+<operation>execute</operation>
+<source_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</source_scope>
+<status>allowed</status>
+<sys_class_name>sys_scope_privilege</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:20:19</sys_created_on>
+<sys_id>e01d82e21490d3107f4417eef39ebeb9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>ScriptableRESTResponse.getResponseAttachmentSysid</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_scope_privilege_e01d82e21490d3107f4417eef39ebeb9</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:20:19</sys_updated_on>
+<target_name>ScriptableRESTResponse.getResponseAttachmentSysid</target_name>
+<target_scope display_value="Global">global</target_scope>
+<target_type>scriptable</target_type>
+</sys_scope_privilege>
+<sys_scope_privilege action="INSERT_OR_UPDATE">
+<operation>execute</operation>
+<source_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</source_scope>
+<status>allowed</status>
+<sys_class_name>sys_scope_privilege</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:53:29</sys_created_on>
+<sys_id>f7e6c6661450d3107f4417eef39ebec3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>GlideRecord.update</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_scope_privilege_f7e6c6661450d3107f4417eef39ebec3</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-04 23:53:29</sys_updated_on>
+<target_name>GlideRecord.update</target_name>
+<target_scope display_value="Global">global</target_scope>
+<target_type>scriptable</target_type>
+</sys_scope_privilege>
+</unload>

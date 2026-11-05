@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-05 23:42:44">
+<sys_ui_form_section action="INSERT_OR_UPDATE">
+<position>0</position>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:26</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>08bd1641d2ea4ca28330a533d9d7cd70</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_overrides display_value=""/>
+<sys_ui_form display_value="x_1234_team39_co_0_sale" name="x_1234_team39_co_0_sale" view="Default view" sys_domain="global">b77244a66da64051bb807d1ea78a794d</sys_ui_form>
+<sys_ui_section display_value="Previous Sale" name="x_1234_team39_co_0_sale" caption="Previous Sale" view="Default view" sys_domain="global">b078f71a6b0d47bf84f1c4ff13f1f9dc</sys_ui_section>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:26</sys_updated_on>
+</sys_ui_form_section>
+<sys_ui_form_section action="INSERT_OR_UPDATE">
+<position>0</position>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:22</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>315d8287ac7549fb883fea946bc32715</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_overrides display_value=""/>
+<sys_ui_form display_value="x_1234_team39_co_0_drop" name="x_1234_team39_co_0_drop" view="Default view" sys_domain="global">09baf5abe2134f228cde53793610482a</sys_ui_form>
+<sys_ui_section display_value="Drop" name="x_1234_team39_co_0_drop" caption="Drop" view="Default view" sys_domain="global">ed551b7c1fb146b2a1bd786bcfdc99e7</sys_ui_section>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:22</sys_updated_on>
+</sys_ui_form_section>
+<sys_ui_form_section action="INSERT_OR_UPDATE">
+<position>0</position>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:22</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>423e06a2a1994dc1987f3c2052cd437c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_overrides display_value=""/>
+<sys_ui_form display_value="x_1234_team39_co_0_collectible" name="x_1234_team39_co_0_collectible" view="Default view" sys_domain="global">12d5617a8c834eb180d8bc2fe6e9a7b7</sys_ui_form>
+<sys_ui_section display_value="Collectible" name="x_1234_team39_co_0_collectible" caption="Collectible" view="Default view" sys_domain="global">4c6f6cdc7fc246c983a3546f18a6ec02</sys_ui_section>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:22</sys_updated_on>
+</sys_ui_form_section>
+<sys_ui_form_section action="INSERT_OR_UPDATE">
+<position>0</position>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:22</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>8ee031f27d574a5591a7afffc451adf0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_overrides display_value=""/>
+<sys_ui_form display_value="x_1234_team39_co_0_listing" name="x_1234_team39_co_0_listing" view="Default view" sys_domain="global">a30c039063654bd4879cae373d66f72f</sys_ui_form>
+<sys_ui_section display_value="Store Listing" name="x_1234_team39_co_0_listing" caption="Store Listing" view="Default view" sys_domain="global">e5512dea1eac45f9920db4945c58e4ed</sys_ui_section>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:22</sys_updated_on>
+</sys_ui_form_section>
+<sys_ui_form_section action="INSERT_OR_UPDATE">
+<position>0</position>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:27:26</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>9fd68f57f31b41a5bcf00467c5742c4f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_overrides display_value=""/>
+<sys_ui_form display_value="x_1234_team39_co_0_watch" name="x_1234_team39_co_0_watch" view="Default view" sys_domain="global">e0bde73e6a7e41979482c05b8de26787</sys_ui_form>
+<sys_ui_section display_value="Watch" name="x_1234_team39_co_0_watch" caption="Watch" view="Default view" sys_domain="global">2125e27fd53e4ebbab8f1fc32560c59e</sys_ui_section>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:27:26</sys_updated_on>
+</sys_ui_form_section>
+<sys_ui_form_section action="INSERT_OR_UPDATE">
+<position>0</position>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:22</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>a147e999b0b34d6d9524b2fa95b16063</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_overrides display_value=""/>
+<sys_ui_form display_value="x_1234_team39_co_0_tip" name="x_1234_team39_co_0_tip" view="Default view" sys_domain="global">82c62d6288874ac9ac1fd9dfcc5275a0</sys_ui_form>
+<sys_ui_section display_value="Community Tip" name="x_1234_team39_co_0_tip" caption="Community Tip" view="Default view" sys_domain="global">89157f33ba334abda3f1104289aa162f</sys_ui_section>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:22</sys_updated_on>
+</sys_ui_form_section>
+<sys_ui_form_section action="INSERT_OR_UPDATE">
+<position>0</position>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:22</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>c3e4f6994e03488daba43bc72279fd2b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_overrides display_value=""/>
+<sys_ui_form display_value="x_1234_team39_co_0_store" name="x_1234_team39_co_0_store" view="Default view" sys_domain="global">d0e97e5ae71342d48297c43c6e9b7d7a</sys_ui_form>
+<sys_ui_section display_value="Store" name="x_1234_team39_co_0_store" caption="Store" view="Default view" sys_domain="global">226014d08acf4f50b57678bb323d3109</sys_ui_section>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:22</sys_updated_on>
+</sys_ui_form_section>
+</unload>

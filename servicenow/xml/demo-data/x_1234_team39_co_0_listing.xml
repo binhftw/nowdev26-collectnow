@@ -1,0 +1,649 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-05 23:42:44">
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Prismatic Evolutions Elite Trainer Box">d774ca221450d3107f4417eef39ebeb4</collectible>
+<date_listed>2026-11-04 23:49:17</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.tcgplayer.com</listing_url>
+<number>LST0001003</number>
+<price>89.99</price>
+<store display_value="TCGplayer">7342c6aa1410d3107f4417eef39ebe40</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>82f58ae21450d3107f4417eef39ebed9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-04 23:49:17</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>low_stock</availability>
+<collectible display_value="Prismatic Evolutions Elite Trainer Box">d774ca221450d3107f4417eef39ebeb4</collectible>
+<date_listed>2026-11-04 23:49:17</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.ebay.com</listing_url>
+<number>LST0001004</number>
+<price>94.5</price>
+<store display_value="eBay">fb42c6aa1410d3107f4417eef39ebe40</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>86f58ae21450d3107f4417eef39ebeda</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-04 23:49:17</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>low_stock</availability>
+<collectible display_value="Surging Sparks Booster Box">1374ca221450d3107f4417eef39ebeb6</collectible>
+<date_listed>2026-11-04 23:49:17</date_listed>
+<drop display_value="Surging Sparks Booster Box Sale">c6f502a21450d3107f4417eef39ebe28</drop>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.target.com</listing_url>
+<number>LST0001005</number>
+<price>143.64</price>
+<store display_value="Target">b742c6aa1410d3107f4417eef39ebe46</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>06f58ae21450d3107f4417eef39ebedb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-04 23:49:17</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>sold_out</availability>
+<collectible display_value="Surging Sparks Booster Box">1374ca221450d3107f4417eef39ebeb6</collectible>
+<date_listed>2026-11-04 23:49:17</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.walmart.com</listing_url>
+<number>LST0001006</number>
+<price>149.99</price>
+<store display_value="Walmart">3342c6aa1410d3107f4417eef39ebe47</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>42f58ae21450d3107f4417eef39ebedc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-04 23:49:17</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Pokémon 151 Ultra-Premium Collection">d774ca221450d3107f4417eef39ebeb5</collectible>
+<date_listed>2026-11-04 23:49:17</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.ebay.com</listing_url>
+<number>LST0001007</number>
+<price>179.99</price>
+<store display_value="eBay">fb42c6aa1410d3107f4417eef39ebe40</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>4ef58ae21450d3107f4417eef39ebedc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-04 23:49:17</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Journey Together Booster Bundle">5b74ca221450d3107f4417eef39ebeb6</collectible>
+<date_listed>2026-11-04 23:49:17</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.gamestop.com</listing_url>
+<number>LST0001008</number>
+<price>26.99</price>
+<store display_value="GameStop">bb42c6aa1410d3107f4417eef39ebe47</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>4af58ae21450d3107f4417eef39ebedd</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-04 23:49:17</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>sold_out</availability>
+<collectible display_value="Labubu Have a Seat Blind Box">db74ca221450d3107f4417eef39ebeb7</collectible>
+<date_listed>2026-11-04 23:49:17</date_listed>
+<drop display_value="Labubu Have a Seat Restock">86f58ae21450d3107f4417eef39ebed5</drop>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.popmart.com</listing_url>
+<number>LST0001009</number>
+<price>27.99</price>
+<store display_value="Pop Mart (retail stores)">3742c6aa1410d3107f4417eef39ebe48</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>c6f58ae21450d3107f4417eef39ebede</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-04 23:49:17</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Labubu Exciting Macaron Blind Box">9374ca221450d3107f4417eef39ebeb7</collectible>
+<date_listed>2026-11-04 23:49:17</date_listed>
+<drop display_value=""/>
+<item_condition>mint</item_condition>
+<listing_url>https://www.whatnot.com</listing_url>
+<number>LST0001010</number>
+<price>45</price>
+<store display_value="Whatnot">3b42c6aa1410d3107f4417eef39ebe44</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>c2f58ae21450d3107f4417eef39ebedf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-04 23:49:17</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="2024 Topps Chrome Baseball Hobby Box">5f74ca221450d3107f4417eef39ebeb8</collectible>
+<date_listed>2026-11-04 23:49:17</date_listed>
+<drop display_value="Topps Chrome Baseball Hobby Release">82f58ae21450d3107f4417eef39ebed6</drop>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.topps.com</listing_url>
+<number>LST0001011</number>
+<price>249.99</price>
+<store display_value="Topps">bb42c6aa1410d3107f4417eef39ebe42</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>42f58ae21450d3107f4417eef39ebee0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-04 23:49:17</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>low_stock</availability>
+<collectible display_value="2024-25 Panini Prizm Basketball Hobby Box">9774ca221450d3107f4417eef39ebeb9</collectible>
+<date_listed>2026-11-04 23:49:17</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.ebay.com</listing_url>
+<number>LST0001012</number>
+<price>899.99</price>
+<store display_value="eBay">fb42c6aa1410d3107f4417eef39ebe40</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>4ef58ae21450d3107f4417eef39ebee0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-04 23:49:17</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>sold_out</availability>
+<collectible display_value="2024 Panini Prizm Football Hobby Box">df74ca221450d3107f4417eef39ebeb9</collectible>
+<date_listed>2026-11-04 23:49:17</date_listed>
+<drop display_value="2024 Panini Prizm Football Release">86f58ae21450d3107f4417eef39ebed8</drop>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.paniniamerica.net</listing_url>
+<number>LST0001013</number>
+<price>299.99</price>
+<store display_value="Panini America">3742c6aa1410d3107f4417eef39ebe43</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-04 23:49:17</sys_created_on>
+<sys_id>caf58ae21450d3107f4417eef39ebee1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-04 23:49:17</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Labubu Big Into Energy Blind Box">1774ca221450d3107f4417eef39ebeb8</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.ebay.com</listing_url>
+<number>LST0001014</number>
+<price>54.99</price>
+<store display_value="eBay">fb42c6aa1410d3107f4417eef39ebe40</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>b0c84a6a1450d3107f4417eef39ebece</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>low_stock</availability>
+<collectible display_value="Labubu Big Into Energy Blind Box">1774ca221450d3107f4417eef39ebeb8</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://stockx.com</listing_url>
+<number>LST0001015</number>
+<price>49</price>
+<store display_value="StockX">b342c6aa1410d3107f4417eef39ebe45</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>30c84a6a1450d3107f4417eef39ebecf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Labubu Big Into Energy Blind Box">1774ca221450d3107f4417eef39ebeb8</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>mint</item_condition>
+<listing_url>https://www.whatnot.com</listing_url>
+<number>LST0001016</number>
+<price>42</price>
+<store display_value="Whatnot">3b42c6aa1410d3107f4417eef39ebe44</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>b8c84a6a1450d3107f4417eef39ebecf</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="2025 Topps Series 1 Baseball Hobby Box">1b74ca221450d3107f4417eef39ebeba</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.ebay.com</listing_url>
+<number>LST0001017</number>
+<price>134.99</price>
+<store display_value="eBay">fb42c6aa1410d3107f4417eef39ebe40</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>bcc842aa1450d3107f4417eef39ebe19</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>low_stock</availability>
+<collectible display_value="2025 Topps Series 1 Baseball Hobby Box">1b74ca221450d3107f4417eef39ebeba</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.comc.com</listing_url>
+<number>LST0001018</number>
+<price>128.5</price>
+<store display_value="COMC">3f42c6aa1410d3107f4417eef39ebe45</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>38c842aa1450d3107f4417eef39ebe1a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>low_stock</availability>
+<collectible display_value="Pokémon 151 Ultra-Premium Collection">d774ca221450d3107f4417eef39ebeb5</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.tcgplayer.com</listing_url>
+<number>LST0001019</number>
+<price>172.49</price>
+<store display_value="TCGplayer">7342c6aa1410d3107f4417eef39ebe40</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>b0c842aa1450d3107f4417eef39ebe1b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>sold_out</availability>
+<collectible display_value="Journey Together Booster Bundle">5b74ca221450d3107f4417eef39ebeb6</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.target.com</listing_url>
+<number>LST0001020</number>
+<price>26.99</price>
+<store display_value="Target">b742c6aa1410d3107f4417eef39ebe46</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>3cc842aa1450d3107f4417eef39ebe1b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Journey Together Booster Bundle">5b74ca221450d3107f4417eef39ebeb6</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.tcgplayer.com</listing_url>
+<number>LST0001021</number>
+<price>32.95</price>
+<store display_value="TCGplayer">7342c6aa1410d3107f4417eef39ebe40</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>b4c842aa1450d3107f4417eef39ebe1c</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Labubu Have a Seat Blind Box">db74ca221450d3107f4417eef39ebeb7</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>mint</item_condition>
+<listing_url>https://www.ebay.com</listing_url>
+<number>LST0001022</number>
+<price>64.99</price>
+<store display_value="eBay">fb42c6aa1410d3107f4417eef39ebe40</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>30c842aa1450d3107f4417eef39ebe1d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Labubu Exciting Macaron Blind Box">9374ca221450d3107f4417eef39ebeb7</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://stockx.com</listing_url>
+<number>LST0001023</number>
+<price>58</price>
+<store display_value="StockX">b342c6aa1410d3107f4417eef39ebe45</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>b8c842aa1450d3107f4417eef39ebe1d</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="2024 Topps Chrome Baseball Hobby Box">5f74ca221450d3107f4417eef39ebeb8</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.ebay.com</listing_url>
+<number>LST0001024</number>
+<price>239</price>
+<store display_value="eBay">fb42c6aa1410d3107f4417eef39ebe40</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>34c842aa1450d3107f4417eef39ebe1e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="2024-25 Panini Prizm Basketball Hobby Box">9774ca221450d3107f4417eef39ebeb9</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.comc.com</listing_url>
+<number>LST0001025</number>
+<price>869</price>
+<store display_value="COMC">3f42c6aa1410d3107f4417eef39ebe45</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>bcc842aa1450d3107f4417eef39ebe1e</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>low_stock</availability>
+<collectible display_value="2024 Panini Prizm Football Hobby Box">df74ca221450d3107f4417eef39ebeb9</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.ebay.com</listing_url>
+<number>LST0001026</number>
+<price>319.99</price>
+<store display_value="eBay">fb42c6aa1410d3107f4417eef39ebe40</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>38c842aa1450d3107f4417eef39ebe1f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>sold_out</availability>
+<collectible display_value="Prismatic Evolutions Elite Trainer Box">d774ca221450d3107f4417eef39ebeb4</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.pokemoncenter.com</listing_url>
+<number>LST0001027</number>
+<price>59.99</price>
+<store display_value="Pokémon Center">7b42c6aa1410d3107f4417eef39ebe3e</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>b0c842aa1450d3107f4417eef39ebe20</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Surging Sparks Booster Box">1374ca221450d3107f4417eef39ebeb6</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.ebay.com</listing_url>
+<number>LST0001028</number>
+<price>159.99</price>
+<store display_value="eBay">fb42c6aa1410d3107f4417eef39ebe40</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>3cc842aa1450d3107f4417eef39ebe20</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Surging Sparks Booster Box">1374ca221450d3107f4417eef39ebeb6</collectible>
+<date_listed>2026-11-05 00:01:29</date_listed>
+<drop display_value=""/>
+<item_condition>near_mint</item_condition>
+<listing_url>https://www.cardmarket.com</listing_url>
+<number>LST0001029</number>
+<price>135</price>
+<store display_value="Cardmarket">7742c6aa1410d3107f4417eef39ebe41</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:01:29</sys_created_on>
+<sys_id>b4c842aa1450d3107f4417eef39ebe21</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:01:29</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="2025 Topps Series 1 Baseball Hobby Box">1b74ca221450d3107f4417eef39ebeba</collectible>
+<date_listed>2026-11-05 00:10:11</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://fanaticscollect.com</listing_url>
+<number>LST0001030</number>
+<price>119.99</price>
+<store display_value="Fanatics Collect">bf42c6aa1410d3107f4417eef39ebe43</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>18ca4aae1450d3107f4417eef39ebec0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>low_stock</availability>
+<collectible display_value="2024 Panini Prizm Football Hobby Box">df74ca221450d3107f4417eef39ebeb9</collectible>
+<date_listed>2026-11-05 00:10:11</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://fanaticscollect.com</listing_url>
+<number>LST0001031</number>
+<price>309.99</price>
+<store display_value="Fanatics Collect">bf42c6aa1410d3107f4417eef39ebe43</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>90ca4aae1450d3107f4417eef39ebec1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Journey Together Booster Bundle">5b74ca221450d3107f4417eef39ebeb6</collectible>
+<date_listed>2026-11-05 00:10:11</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url/>
+<number>LST0001032</number>
+<price>29.99</price>
+<store display_value="Local Card Shop">bf42c6aa1410d3107f4417eef39ebe48</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>1cca4aae1450d3107f4417eef39ebec1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>low_stock</availability>
+<collectible display_value="One Piece Card Game Romance Dawn Booster Box">d0ca4aae1450d3107f4417eef39ebebf</collectible>
+<date_listed>2026-11-05 00:10:11</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url/>
+<number>LST0001033</number>
+<price>349.99</price>
+<store display_value="Local Card Shop">bf42c6aa1410d3107f4417eef39ebe48</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>94ca4aae1450d3107f4417eef39ebec2</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>sold_out</availability>
+<collectible display_value="Labubu Big Into Energy Blind Box">1774ca221450d3107f4417eef39ebeb8</collectible>
+<date_listed>2026-11-05 00:10:11</date_listed>
+<drop display_value="Labubu Big Into Energy Online Drop">cef502a21450d3107f4417eef39ebe26</drop>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.popmart.com</listing_url>
+<number>LST0001034</number>
+<price>27.99</price>
+<store display_value="Pop Mart">3342c6aa1410d3107f4417eef39ebe42</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>90ca4aae1450d3107f4417eef39ebec3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="One Piece Card Game Romance Dawn Booster Box">d0ca4aae1450d3107f4417eef39ebebf</collectible>
+<date_listed>2026-11-05 00:10:11</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.tcgplayer.com</listing_url>
+<number>LST0001035</number>
+<price>329.95</price>
+<store display_value="TCGplayer">7342c6aa1410d3107f4417eef39ebe40</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>1cca4aae1450d3107f4417eef39ebec3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Funko Pop! Pikachu Vinyl Figure">9cca4aae1450d3107f4417eef39ebebf</collectible>
+<date_listed>2026-11-05 00:10:11</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.gamestop.com</listing_url>
+<number>LST0001036</number>
+<price>12.99</price>
+<store display_value="GameStop">bb42c6aa1410d3107f4417eef39ebe47</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>94ca4aae1450d3107f4417eef39ebec4</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>low_stock</availability>
+<collectible display_value="Funko Pop! Pikachu Vinyl Figure">9cca4aae1450d3107f4417eef39ebebf</collectible>
+<date_listed>2026-11-05 00:10:11</date_listed>
+<drop display_value=""/>
+<item_condition>sealed</item_condition>
+<listing_url>https://www.walmart.com</listing_url>
+<number>LST0001037</number>
+<price>11.88</price>
+<store display_value="Walmart">3342c6aa1410d3107f4417eef39ebe47</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>10ca4aae1450d3107f4417eef39ebec5</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Prismatic Evolutions Elite Trainer Box">d774ca221450d3107f4417eef39ebeb4</collectible>
+<date_listed>2026-11-05 00:10:11</date_listed>
+<drop display_value=""/>
+<item_condition/>
+<listing_url>https://www.target.com</listing_url>
+<number>LST0001038</number>
+<price>59.99</price>
+<store display_value="Target">b742c6aa1410d3107f4417eef39ebe46</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>98ca4aae1450d3107f4417eef39ebeda</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="Surging Sparks Booster Box">1374ca221450d3107f4417eef39ebeb6</collectible>
+<date_listed>2026-11-05 00:10:11</date_listed>
+<drop display_value=""/>
+<item_condition/>
+<listing_url>https://www.tcgplayer.com</listing_url>
+<number>LST0001039</number>
+<price>139.99</price>
+<store display_value="TCGplayer">7342c6aa1410d3107f4417eef39ebe40</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>98ca4aae1450d3107f4417eef39ebedb</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+</x_1234_team39_co_0_listing>
+<x_1234_team39_co_0_listing action="INSERT_OR_UPDATE">
+<availability>in_stock</availability>
+<collectible display_value="2024 Topps Chrome Baseball Hobby Box">5f74ca221450d3107f4417eef39ebeb8</collectible>
+<date_listed>2026-11-05 00:10:11</date_listed>
+<drop display_value=""/>
+<item_condition/>
+<listing_url>https://www.whatnot.com</listing_url>
+<number>LST0001040</number>
+<price>235</price>
+<store display_value="Whatnot">3b42c6aa1410d3107f4417eef39ebe44</store>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 00:10:11</sys_created_on>
+<sys_id>58ca4aae1450d3107f4417eef39ebedc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 00:10:11</sys_updated_on>
+</x_1234_team39_co_0_listing>
+</unload>

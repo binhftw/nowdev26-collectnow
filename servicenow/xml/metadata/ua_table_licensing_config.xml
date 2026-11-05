@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-05 23:42:40">
+<ua_table_licensing_config action="INSERT_OR_UPDATE">
+<is_fulfillment>false</is_fulfillment>
+<license_condition table="x_1234_team39_co_0_collectible"/>
+<license_model>none</license_model>
+<license_roles/>
+<name>x_1234_team39_co_0_collectible</name>
+<op_delete>true</op_delete>
+<op_insert>true</op_insert>
+<op_update>true</op_update>
+<owner_condition table="x_1234_team39_co_0_collectible"/>
+<sys_class_name>ua_table_licensing_config</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:13</sys_created_on>
+<sys_id>63a8fd6614dc93107f4417eef39ebe7f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0_collectible</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>ua_table_licensing_config_63a8fd6614dc93107f4417eef39ebe7f</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:13</sys_updated_on>
+</ua_table_licensing_config>
+<ua_table_licensing_config action="INSERT_OR_UPDATE">
+<is_fulfillment>false</is_fulfillment>
+<license_condition table="x_1234_team39_co_0_drop"/>
+<license_model>none</license_model>
+<license_roles/>
+<name>x_1234_team39_co_0_drop</name>
+<op_delete>true</op_delete>
+<op_insert>true</op_insert>
+<op_update>true</op_update>
+<owner_condition table="x_1234_team39_co_0_drop"/>
+<sys_class_name>ua_table_licensing_config</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:14</sys_created_on>
+<sys_id>b3a8fd6614dc93107f4417eef39ebed9</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0_drop</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>ua_table_licensing_config_b3a8fd6614dc93107f4417eef39ebed9</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:14</sys_updated_on>
+</ua_table_licensing_config>
+<ua_table_licensing_config action="INSERT_OR_UPDATE">
+<is_fulfillment>false</is_fulfillment>
+<license_condition table="x_1234_team39_co_0_listing"/>
+<license_model>none</license_model>
+<license_roles/>
+<name>x_1234_team39_co_0_listing</name>
+<op_delete>true</op_delete>
+<op_insert>true</op_insert>
+<op_update>true</op_update>
+<owner_condition table="x_1234_team39_co_0_listing"/>
+<sys_class_name>ua_table_licensing_config</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:16</sys_created_on>
+<sys_id>d4b831a614dc93107f4417eef39ebea3</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0_listing</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>ua_table_licensing_config_d4b831a614dc93107f4417eef39ebea3</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:16</sys_updated_on>
+</ua_table_licensing_config>
+<ua_table_licensing_config action="INSERT_OR_UPDATE">
+<is_fulfillment>false</is_fulfillment>
+<license_condition table="x_1234_team39_co_0_sale"/>
+<license_model>none</license_model>
+<license_roles/>
+<name>x_1234_team39_co_0_sale</name>
+<op_delete>true</op_delete>
+<op_insert>true</op_insert>
+<op_update>true</op_update>
+<owner_condition table="x_1234_team39_co_0_sale"/>
+<sys_class_name>ua_table_licensing_config</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:34</sys_created_on>
+<sys_id>cf8b12ee14d0d3107f4417eef39ebe7b</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0_sale</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>ua_table_licensing_config_cf8b12ee14d0d3107f4417eef39ebe7b</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:34</sys_updated_on>
+</ua_table_licensing_config>
+<ua_table_licensing_config action="INSERT_OR_UPDATE">
+<is_fulfillment>false</is_fulfillment>
+<license_condition table="x_1234_team39_co_0_store"/>
+<license_model>none</license_model>
+<license_roles/>
+<name>x_1234_team39_co_0_store</name>
+<op_delete>true</op_delete>
+<op_insert>true</op_insert>
+<op_update>true</op_update>
+<owner_condition table="x_1234_team39_co_0_store"/>
+<sys_class_name>ua_table_licensing_config</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:17</sys_created_on>
+<sys_id>a8b871a614dc93107f4417eef39ebe3f</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0_store</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>ua_table_licensing_config_a8b871a614dc93107f4417eef39ebe3f</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:17</sys_updated_on>
+</ua_table_licensing_config>
+<ua_table_licensing_config action="INSERT_OR_UPDATE">
+<is_fulfillment>false</is_fulfillment>
+<license_condition table="x_1234_team39_co_0_tip"/>
+<license_model>none</license_model>
+<license_roles/>
+<name>x_1234_team39_co_0_tip</name>
+<op_delete>true</op_delete>
+<op_insert>true</op_insert>
+<op_update>true</op_update>
+<owner_condition table="x_1234_team39_co_0_tip"/>
+<sys_class_name>ua_table_licensing_config</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:18</sys_created_on>
+<sys_id>7cb871a614dc93107f4417eef39ebeb6</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0_tip</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>ua_table_licensing_config_7cb871a614dc93107f4417eef39ebeb6</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:18</sys_updated_on>
+</ua_table_licensing_config>
+<ua_table_licensing_config action="INSERT_OR_UPDATE">
+<is_fulfillment>false</is_fulfillment>
+<license_condition table="x_1234_team39_co_0_watch"/>
+<license_model>none</license_model>
+<license_roles/>
+<name>x_1234_team39_co_0_watch</name>
+<op_delete>true</op_delete>
+<op_insert>true</op_insert>
+<op_update>true</op_update>
+<owner_condition table="x_1234_team39_co_0_watch"/>
+<sys_class_name>ua_table_licensing_config</sys_class_name>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:35</sys_created_on>
+<sys_id>e78b52ee14d0d3107f4417eef39ebe34</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>x_1234_team39_co_0_watch</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>ua_table_licensing_config_e78b52ee14d0d3107f4417eef39ebe34</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:35</sys_updated_on>
+</ua_table_licensing_config>
+</unload>

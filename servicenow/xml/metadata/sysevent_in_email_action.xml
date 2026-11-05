@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-05 23:42:32">
+<sysevent_in_email_action action="INSERT_OR_UPDATE">
+<action>record_action</action>
+<active>true</active>
+<assignment_operator/>
+<condition_script/>
+<description>Creates a Pending Review Community Tip from emails whose subject starts with "Tip:".</description>
+<event_name>email.read</event_name>
+<filter_condition table="sys_email">subjectSTARTSWITHTip:^EQ<item goto="false" or="false" field="subject" endquery="false" value="Tip:" operator="STARTSWITH" newquery="false"/>
+<item goto="false" or="false" field="" endquery="true" value="" operator="=" newquery="false"/>
+</filter_condition>
+<from display_value=""/>
+<name>CollectNow - Create Community Tip from E</name>
+<order>50</order>
+<reply_email/>
+<required_roles/>
+<script><![CDATA[(function runAction(current, event, email, logger, classifier) {
+    var subject = email.subject || '';
+    var title = subject.replace(/^\s*tip:\s*/i, '');
+    current.setValue('title', title || 'Untitled tip');
+
+    var body = email.body_text || '';
+    current.setValue('raw_text', body);
+    current.setValue('status', 'pending');
+
+    if (email.from_sys_id) {
+        current.setValue('submitted_by', email.from_sys_id);
+    }
+
+    var lower = body.toLowerCase();
+    var source = 'email';
+    if (lower.indexOf('facebook.com') > -1 || lower.indexOf('fb.com') > -1) {
+        source = 'facebook';
+    } else if (lower.indexOf('whatsapp') > -1 || lower.indexOf('wa.me') > -1) {
+        source = 'whatsapp';
+    } else if (lower.indexOf('discord') > -1) {
+        source = 'discord';
+    } else if (lower.indexOf('reddit.com') > -1) {
+        source = 'reddit';
+    }
+    current.setValue('source', source);
+
+    var urlMatch = body.match(/https?:\/\/[^\s<>"]+/i);
+    if (urlMatch) {
+        current.setValue('source_link', urlMatch[0]);
+    }
+
+    current.insert();
+    logger.log('Created Community Tip ' + current.getValue('number') + ' from email: ' + subject, 'CollectNow');
+})(current, event, email, logger, classifier)]]></script>
+<stop_processing>true</stop_processing>
+<sys_class_name>sysevent_in_email_action</sys_class_name>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:24</sys_created_on>
+<sys_domain>global</sys_domain>
+<sys_domain_path>/</sys_domain_path>
+<sys_id>57f381b70b4a4ef4a550ad5bbfb5dc66</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>CollectNow - Create Community Tip from E</sys_name>
+<sys_overrides display_value=""/>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sysevent_in_email_action_57f381b70b4a4ef4a550ad5bbfb5dc66</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:24</sys_updated_on>
+<table>x_1234_team39_co_0_tip</table>
+<template/>
+<type>new</type>
+</sysevent_in_email_action>
+</unload>

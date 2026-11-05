@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-11-05 23:42:33">
+<sys_db_object action="INSERT_OR_UPDATE">
+<access>public</access>
+<actions_access>false</actions_access>
+<alter_access>false</alter_access>
+<caller_access/>
+<client_scripts_access>false</client_scripts_access>
+<configuration_access>false</configuration_access>
+<create_access>false</create_access>
+<create_access_controls>false</create_access_controls>
+<delete_access>false</delete_access>
+<extension_model/>
+<filter_extension/>
+<is_data_interface>false</is_data_interface>
+<is_df_table>false</is_df_table>
+<is_extendable>false</is_extendable>
+<label>Collectible</label>
+<live_feed_enabled>false</live_feed_enabled>
+<name>x_1234_team39_co_0_collectible</name>
+<number_ref display_value="COL">981516781f374347bac93a472dbcd0fe</number_ref>
+<read_access>true</read_access>
+<scriptable_table>false</scriptable_table>
+<super_class display_value=""/>
+<sys_class_code/>
+<sys_class_name>sys_db_object</sys_class_name>
+<sys_class_path/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:09</sys_created_on>
+<sys_id>1ceff1b6e5444a36a287c701cfed8d26</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Collectible</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_db_object_1ceff1b6e5444a36a287c701cfed8d26</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:09</sys_updated_on>
+<update_access>false</update_access>
+<user_role display_value=""/>
+<ws_access>true</ws_access>
+</sys_db_object>
+<sys_db_object action="INSERT_OR_UPDATE">
+<access>public</access>
+<actions_access>false</actions_access>
+<alter_access>false</alter_access>
+<caller_access/>
+<client_scripts_access>false</client_scripts_access>
+<configuration_access>false</configuration_access>
+<create_access>false</create_access>
+<create_access_controls>false</create_access_controls>
+<delete_access>false</delete_access>
+<extension_model/>
+<filter_extension/>
+<is_data_interface>false</is_data_interface>
+<is_df_table>false</is_df_table>
+<is_extendable>false</is_extendable>
+<label>Drop</label>
+<live_feed_enabled>false</live_feed_enabled>
+<name>x_1234_team39_co_0_drop</name>
+<number_ref display_value="DRP">ad1ef8595d334d5aa5d30906a6746285</number_ref>
+<read_access>true</read_access>
+<scriptable_table>false</scriptable_table>
+<super_class display_value=""/>
+<sys_class_code/>
+<sys_class_name>sys_db_object</sys_class_name>
+<sys_class_path/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:09</sys_created_on>
+<sys_id>139b52ce0e76473898a8bdc6c64105df</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Drop</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_db_object_139b52ce0e76473898a8bdc6c64105df</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:09</sys_updated_on>
+<update_access>false</update_access>
+<user_role display_value=""/>
+<ws_access>true</ws_access>
+</sys_db_object>
+<sys_db_object action="INSERT_OR_UPDATE">
+<access>public</access>
+<actions_access>false</actions_access>
+<alter_access>false</alter_access>
+<caller_access/>
+<client_scripts_access>false</client_scripts_access>
+<configuration_access>false</configuration_access>
+<create_access>false</create_access>
+<create_access_controls>false</create_access_controls>
+<delete_access>false</delete_access>
+<extension_model/>
+<filter_extension/>
+<is_data_interface>false</is_data_interface>
+<is_df_table>false</is_df_table>
+<is_extendable>false</is_extendable>
+<label>Store Listing</label>
+<live_feed_enabled>false</live_feed_enabled>
+<name>x_1234_team39_co_0_listing</name>
+<number_ref display_value="LST">2b35ecf1c02640cca5118e9928ec3555</number_ref>
+<read_access>true</read_access>
+<scriptable_table>false</scriptable_table>
+<super_class display_value=""/>
+<sys_class_code/>
+<sys_class_name>sys_db_object</sys_class_name>
+<sys_class_path/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:09</sys_created_on>
+<sys_id>a6a54923165c4bb993c397060c4cc7fc</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Store Listing</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_db_object_a6a54923165c4bb993c397060c4cc7fc</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:09</sys_updated_on>
+<update_access>false</update_access>
+<user_role display_value=""/>
+<ws_access>true</ws_access>
+</sys_db_object>
+<sys_db_object action="INSERT_OR_UPDATE">
+<access>public</access>
+<actions_access>false</actions_access>
+<alter_access>false</alter_access>
+<caller_access/>
+<client_scripts_access>false</client_scripts_access>
+<configuration_access>false</configuration_access>
+<create_access>false</create_access>
+<create_access_controls>false</create_access_controls>
+<delete_access>false</delete_access>
+<extension_model/>
+<filter_extension/>
+<is_data_interface>false</is_data_interface>
+<is_df_table>false</is_df_table>
+<is_extendable>false</is_extendable>
+<label>Previous Sale</label>
+<live_feed_enabled>false</live_feed_enabled>
+<name>x_1234_team39_co_0_sale</name>
+<number_ref display_value="SAL">6aaa129d2a2441348329a14f5e0d5095</number_ref>
+<read_access>true</read_access>
+<scriptable_table>false</scriptable_table>
+<super_class display_value=""/>
+<sys_class_code/>
+<sys_class_name>sys_db_object</sys_class_name>
+<sys_class_path/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:32</sys_created_on>
+<sys_id>520e3640ffc5497e91aa9d14e5fbb575</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Previous Sale</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_db_object_520e3640ffc5497e91aa9d14e5fbb575</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:32</sys_updated_on>
+<update_access>false</update_access>
+<user_role display_value=""/>
+<ws_access>true</ws_access>
+</sys_db_object>
+<sys_db_object action="INSERT_OR_UPDATE">
+<access>public</access>
+<actions_access>false</actions_access>
+<alter_access>false</alter_access>
+<caller_access/>
+<client_scripts_access>false</client_scripts_access>
+<configuration_access>false</configuration_access>
+<create_access>false</create_access>
+<create_access_controls>false</create_access_controls>
+<delete_access>false</delete_access>
+<extension_model/>
+<filter_extension/>
+<is_data_interface>false</is_data_interface>
+<is_df_table>false</is_df_table>
+<is_extendable>false</is_extendable>
+<label>Store</label>
+<live_feed_enabled>false</live_feed_enabled>
+<name>x_1234_team39_co_0_store</name>
+<number_ref display_value="STR">c7504a58ea4043ef89c9bed0025f9c34</number_ref>
+<read_access>true</read_access>
+<scriptable_table>false</scriptable_table>
+<super_class display_value=""/>
+<sys_class_code/>
+<sys_class_name>sys_db_object</sys_class_name>
+<sys_class_path/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:09</sys_created_on>
+<sys_id>0e235284988841ac944331575c9422b1</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Store</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_db_object_0e235284988841ac944331575c9422b1</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:09</sys_updated_on>
+<update_access>false</update_access>
+<user_role display_value=""/>
+<ws_access>true</ws_access>
+</sys_db_object>
+<sys_db_object action="INSERT_OR_UPDATE">
+<access>public</access>
+<actions_access>false</actions_access>
+<alter_access>false</alter_access>
+<caller_access/>
+<client_scripts_access>false</client_scripts_access>
+<configuration_access>false</configuration_access>
+<create_access>false</create_access>
+<create_access_controls>false</create_access_controls>
+<delete_access>false</delete_access>
+<extension_model/>
+<filter_extension/>
+<is_data_interface>false</is_data_interface>
+<is_df_table>false</is_df_table>
+<is_extendable>false</is_extendable>
+<label>Community Tip</label>
+<live_feed_enabled>false</live_feed_enabled>
+<name>x_1234_team39_co_0_tip</name>
+<number_ref display_value="TIP">596de6955a7046b5ad41bc591d2e97c2</number_ref>
+<read_access>true</read_access>
+<scriptable_table>false</scriptable_table>
+<super_class display_value=""/>
+<sys_class_code/>
+<sys_class_name>sys_db_object</sys_class_name>
+<sys_class_path/>
+<sys_created_by>admin_2</sys_created_by>
+<sys_created_on>2026-11-04 22:51:09</sys_created_on>
+<sys_id>1355151c0549482aaaf2fdda3c929bd0</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Community Tip</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_db_object_1355151c0549482aaaf2fdda3c929bd0</sys_update_name>
+<sys_updated_by>admin_2</sys_updated_by>
+<sys_updated_on>2026-11-04 22:51:09</sys_updated_on>
+<update_access>false</update_access>
+<user_role display_value=""/>
+<ws_access>true</ws_access>
+</sys_db_object>
+<sys_db_object action="INSERT_OR_UPDATE">
+<access>public</access>
+<actions_access>false</actions_access>
+<alter_access>false</alter_access>
+<caller_access/>
+<client_scripts_access>false</client_scripts_access>
+<configuration_access>false</configuration_access>
+<create_access>false</create_access>
+<create_access_controls>false</create_access_controls>
+<delete_access>false</delete_access>
+<extension_model/>
+<filter_extension/>
+<is_data_interface>false</is_data_interface>
+<is_df_table>false</is_df_table>
+<is_extendable>false</is_extendable>
+<label>Watch</label>
+<live_feed_enabled>false</live_feed_enabled>
+<name>x_1234_team39_co_0_watch</name>
+<number_ref display_value="WCH">d72d3af98504497db27e2c9b84d5a22c</number_ref>
+<read_access>true</read_access>
+<scriptable_table>false</scriptable_table>
+<super_class display_value=""/>
+<sys_class_code/>
+<sys_class_name>sys_db_object</sys_class_name>
+<sys_class_path/>
+<sys_created_by>admin_3</sys_created_by>
+<sys_created_on>2026-11-05 01:23:32</sys_created_on>
+<sys_id>b5390c0d22c14b9eb4a2ed953b2c6d87</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_name>Watch</sys_name>
+<sys_package display_value="Team39 CollectNow" source="x_1234_team39_co_0">13a1f52a149c93107f4417eef39ebe5a</sys_package>
+<sys_policy/>
+<sys_scope display_value="Team39 CollectNow">13a1f52a149c93107f4417eef39ebe5a</sys_scope>
+<sys_update_name>sys_db_object_b5390c0d22c14b9eb4a2ed953b2c6d87</sys_update_name>
+<sys_updated_by>admin_3</sys_updated_by>
+<sys_updated_on>2026-11-05 01:23:32</sys_updated_on>
+<update_access>false</update_access>
+<user_role display_value=""/>
+<ws_access>true</ws_access>
+</sys_db_object>
+</unload>
