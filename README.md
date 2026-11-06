@@ -1,5 +1,7 @@
 # CollectNow
 
+🏆 **now[dev]26 Hackathon Category Winner: _Build it for yourself_**
+
 **Scattered rumors → verified drops and fair prices.**
 A ServiceNow scoped app plus an EmployeeWorks assistant. Collectors use it to find out when the next drop is, where to buy at retail, and whether a resale price is fair. Built by Team39 at the **now[dev]26 hackathon**.
 

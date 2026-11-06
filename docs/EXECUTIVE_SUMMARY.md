@@ -2,6 +2,8 @@
 
 **Team39 · now[dev]26 hackathon · built in one day**
 
+🏆 **Hackathon Category Winner: _Build it for yourself_** (November 4, 2026)
+
 ## The problem
 Collectors of Pokémon cards, Labubu blind boxes and sports-card hobby boxes lose time and money to scattered, unreliable information. Restock dates spread as rumors in group chats and forums. Official stores sell out with no restock date. Resellers fill the gap at up to about 2× retail ($54.99 against $27.99 in our demo).
 
