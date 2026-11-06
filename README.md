@@ -107,17 +107,11 @@ servicenow/
   security/              # Role + ACLs
   tests/                 # ATF test catalog
   demo-data/             # Demo records as CSV
-  xml/                   # Full export: every app record in ServiceNow XML (importable)
-    metadata/            #   tables, dictionary, rules, REST, ACLs, ATF, UI pages, modules…
-    demo-data/           #   records for the app's tables
 ```
 
 Start with [`servicenow/server/rest-api/collectible_context.js`](servicenow/server/rest-api/collectible_context.js) and [`servicenow/server/business-rules/create_record_from_approved_tip.js`](servicenow/server/business-rules/create_record_from_approved_tip.js). Those two files hold most of the interesting logic.
 
-### Importing into another instance
-Each file under `servicenow/xml/` is a standard ServiceNow XML export (`<unload>` format). On a personal dev instance, open any list, right-click the column header, choose **Import XML**, and upload the files from `xml/metadata/`. Start with `sys_app.xml`, `sys_scope_privilege.xml`, `sys_db_object.xml` and `sys_dictionary.xml`. Then add `xml/demo-data/` if you want the sample records.
-
-> This is a backup and showcase export from a temporary hackathon instance, not a Source Control–linked repo. Plan on some cleanup if you re-import it.
+> This repo is a showcase of the idea, design and code from a one-day hackathon build. It isn't meant to be installed. The app lived on a temporary hackathon instance.
 
 ## Built with
 ServiceNow (scoped app, Business Rules, Scripted REST, ACLs, ATF) · ServiceNow **Build Agent** · **ToolSmith** / Moveworks Tool Studio (plugins, HTTP actions, OAuth connector) · **EmployeeWorks** (CollectNow Assistant)

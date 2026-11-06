@@ -1,6 +1,5 @@
 # ATF tests
 
-Full test and step definitions are in [`../xml/metadata/sys_atf_test.xml`](../xml/metadata/sys_atf_test.xml) and [`sys_atf_step.xml`](../xml/metadata/sys_atf_step.xml).
 
 | Test | What it proves |
 |---|---|

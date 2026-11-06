@@ -20,4 +20,3 @@ All ACLs have `admin_overrides = true`.
 answer = (current.watcher == gs.getUserID()) || gs.hasRole('admin');
 ```
 
-Full definitions: [`../xml/metadata/sys_security_acl.xml`](../xml/metadata/sys_security_acl.xml) and [`sys_security_acl_role.xml`](../xml/metadata/sys_security_acl_role.xml).
